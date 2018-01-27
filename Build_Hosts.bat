@@ -1,19 +1,19 @@
 :: Build Hosts
-:: Created by Thisisu
+:: Created by thisisu
 @echo off && SET "hostsD=C:\Windows\System32\drivers\etc"
 Echo(Build_Hosts.bat loaded!
 ECHO.
 ECHO.
 COPY /Y "%hostsD%\hosts" "%hostsD%\hosts_backup" >NUL 2>&1
 COPY /Y "%hostsD%\hosts" "%TEMP%\hosts_fixme_000" >NUL 2>&1
-:: Start dumping
+:: Start extracting from primary hosts file
 GREP -P "^127\.94\.0\.(?:1|2|3)|^0\.0\.0\.0" <"%TEMP%\hosts_fixme_000" >"%TEMP%\hosts_fixme_001"
 GREP -vP "^0\.0\.0\.0 0\.0\.0\.0$" <"%TEMP%\hosts_fixme_001" >"%TEMP%\hosts_fixme_002"
-:: Now combine my hosts file
+:: Now append my entries to that same hosts file
 TYPE "E:\Github\hosts\hosts" >>"%TEMP%\hosts_fixme_002"
-:: uniq and sort
+:: Remove duplicates and sort it
 SORT_ -f -u <"%TEMP%\hosts_fixme_002" >"%TEMP%\hosts_fixme_003"
-:: create final host file
+:: Start creating final hosts file
 TYPE "E:\Github\hosts\header">"%TEMP%\hosts_final"
 TYPE "%TEMP%\hosts_fixme_003">>"%TEMP%\hosts_final"
 COPY /Y "%TEMP%\hosts_final" "%hostsD%\hosts"
