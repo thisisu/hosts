@@ -16,11 +16,13 @@ SORT_ -f -u <"%TEMP%\hosts_fixme_002" >"%TEMP%\hosts_fixme_003"
 :: Start creating final hosts file
 TYPE "E:\Github\hosts\header">"%TEMP%\hosts_final"
 TYPE "%TEMP%\hosts_fixme_003">>"%TEMP%\hosts_final"
+color 17
+sc config Dnscache start= disabled
+sc stop Dnscache
+NIRCMD wait 2000
 COPY /Y "%TEMP%\hosts_final" "%hostsD%\hosts"
-IF NOT ERRORLEVEL 1 (
-  color 17 ) ELSE (
-                    COLOR 47
-                    ECHO(We encountered an error
-                    PAUSE
-                    )
+sc config Dnscache start= auto
+SC start Dnscache
+NIRCMD WAIT 2000
 ipconfig /flushdns
+pause
