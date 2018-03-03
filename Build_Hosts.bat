@@ -25,4 +25,5 @@ sc config Dnscache start= auto
 SC start Dnscache
 NIRCMD WAIT 2000
 ipconfig /flushdns
+taskkill /f /im git.exe
 pause
