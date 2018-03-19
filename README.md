@@ -15,4 +15,8 @@ Rogue Google Play Store Apps
 Tech Support Scams / Browser Locking
 Trackers
 
+<<<<<<< HEAD
 Updated daily. Feel report to any issues...
+=======
+Updated daily. Feel report to any issues...
+>>>>>>> 5fb1b08fc64e4d81e67b7736f5782028dd4173db
