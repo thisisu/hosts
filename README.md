@@ -10,19 +10,19 @@ Ads
 
 Fake Dating
 
-Fake Surveys
-
-Fake Your Device is Infected Virus / Fake Google Virus
+Your Device is Infected / Fake Google Virus / Your Battery is Low / .. and other pages that cause your Android device to vibrate
 
 Malware (limited mostly to Spyware.LokiBot and Adware.IStartSurf)
 
 Redirects
 
-Rogue Browser Extensions / Install Extension To Leave This Page
+Rogue Browser Extensions / Install Extension To Leave
 
 Rogue Google Play Store Apps
 
-Spin the Wheel / You are a Winner / Claim Your Prize
+Spin The Wheel / You Are A Winner / Claim Your Prize
+
+Surveys
 
 Tech Support Scams / Browser Locking
 
