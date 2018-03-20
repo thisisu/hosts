@@ -10,7 +10,11 @@ Ads
 
 Fake Dating
 
+Fake News
+
 Your Device is Infected / Fake Google Virus / Your Battery is Low / .. and other pages that cause your Android device to vibrate
+
+Malvertising
 
 Malware (limited mostly to Spyware.LokiBot and Adware.IStartSurf)
 
