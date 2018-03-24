@@ -279,6 +279,9 @@
 0.0.0.0 c-eu5.stripcdn.com
 0.0.0.0 c-us1.stripcdn.com
 0.0.0.0 c-us2.stripcdn.com
+0.0.0.0 c-us3.stripcdn.com
+0.0.0.0 c-us4.stripcdn.com
+0.0.0.0 c-us5.stripcdn.com
 0.0.0.0 c.adexchangemachine.com
 0.0.0.0 c.adsco.re
 0.0.0.0 c.cd-sec.com
@@ -1468,6 +1471,7 @@
 0.0.0.0 ssl.redirectadg.com
 0.0.0.0 sslsecurehost.com
 0.0.0.0 sspintrafmsmt.com
+0.0.0.0 st.stripcdn.com
 0.0.0.0 starlyviewer.com
 0.0.0.0 starsredirect.xyz
 0.0.0.0 start.theharpprogramsurvey.com
