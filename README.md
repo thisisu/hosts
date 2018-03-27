@@ -8,6 +8,8 @@ Support against:
 
 Ads
 
+Analytics / Telemetry
+
 Fake Dating
 
 Fake News
