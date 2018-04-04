@@ -14,11 +14,11 @@ Fake Dating
 
 Fake News
 
-Your Device is Infected / Fake Google Virus / Your Battery is Low / .. and other pages that cause your Android device to vibrate
+Fake Google Virus / Your Device is Infected / Your Battery is Low
 
 Malvertising
 
-Malware (limited mostly to Spyware.LokiBot and Adware.IStartSurf)
+Malware (Limited)
 
 Redirects
 
