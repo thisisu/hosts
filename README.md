@@ -16,9 +16,13 @@ Fake News
 
 Fake Google Virus / Your Device is Infected / Your Battery is Low
 
+Gambling
+
 Malvertising
 
 Malware (Limited)
+
+Porn Filter
 
 Redirects
 
