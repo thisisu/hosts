@@ -5,42 +5,29 @@ Supports Windows and Android devices.
 
 Support against:
 
-
 Ads
 
-Analytics / Telemetry
+Adware
 
-Fake Dating
+Analytics / Telemetry / Trackers
 
-Fake News
+Browlock
 
-Fake Google Virus / Your Device is Infected / Your Battery is Low
+Fraud / Scams
 
 Gambling
 
 Malvertising
 
-Malware (Limited)
-
-Porn Filter
+Porn
 
 Redirects
 
-Rogue Browser Extensions / Install Extension To Leave
+Rogue Browser Extensions
 
 Rogue Google Play Store Apps
 
-Spin The Wheel / You Are A Winner / Claim Your Prize
-
-Surveys
-
-Tech Support Scams / Browser Locking
-
-Trackers
-
-Unwanted Programs / PUPs
-
-
+Scams
 
 
 Updated daily! Feel free to report any issues...
