@@ -27,7 +27,5 @@ Rogue Browser Extensions
 
 Rogue Google Play Store Apps
 
-Scams
-
 
 Updated daily! Feel free to report any issues...
