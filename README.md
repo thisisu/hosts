@@ -3,7 +3,7 @@ Hosts file for a better browsing experience
 
 Supports Windows and Android devices.
 
-Support against:
+Blocks:
 
 Ads
 
