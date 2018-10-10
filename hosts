@@ -1,7 +1,6 @@
 # # Hosts contributed by thisisu
 # Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147
-# t.appsflyer.com - breaks snapchat registration 
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 000tracking.com
@@ -22,6 +21,7 @@
 0.0.0.0 101neta52.info
 0.0.0.0 1024991629.stats.lasso.media
 0.0.0.0 10topvideos.com
+0.0.0.0 11.securefinds.com
 0.0.0.0 11164440.id.clicksguide.net
 0.0.0.0 11165504-21925.domain.domaingateway.com
 0.0.0.0 11hrcnll.com
@@ -611,6 +611,7 @@
 0.0.0.0 bestapp.pw
 0.0.0.0 bestchoise2018.com
 0.0.0.0 bestdateshere22.com
+0.0.0.0 bestfileconverter.com
 0.0.0.0 bestimg.pw
 0.0.0.0 bestmobiworld.com
 0.0.0.0 bestperforming.site
@@ -1166,6 +1167,7 @@
 0.0.0.0 dansinternet.com
 0.0.0.0 daroda180423.info
 0.0.0.0 darrest.com
+0.0.0.0 darvorn.com
 0.0.0.0 dat.itsup.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 data.api.kaffnet.com
@@ -2462,6 +2464,7 @@
 0.0.0.0 moonetizer.com
 0.0.0.0 moonliteco.in
 0.0.0.0 moradu.com
+0.0.0.0 moreinfo4you.com
 0.0.0.0 morjostds.com
 0.0.0.0 mortgagereview.com
 0.0.0.0 most-profitable-domain.xyz
@@ -3947,6 +3950,7 @@
 0.0.0.0 sza.bi
 0.0.0.0 szgvv-group.com
 0.0.0.0 t.8p3xn5fg.science
+0.0.0.0 t.appsflyer.com
 0.0.0.0 t.bqtrk.com
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.dailymail.co.uk
@@ -5290,6 +5294,7 @@
 0.0.0.0 www.ph.casino
 0.0.0.0 www.phalogenics.com
 0.0.0.0 www.photographytalk.com
+0.0.0.0 www.pickbride.com
 0.0.0.0 www.pickflashlivebot.date
 0.0.0.0 www.pickflashliveget.download
 0.0.0.0 www.pickliveflashlist.bid
@@ -5322,6 +5327,7 @@
 0.0.0.0 www.powersoftwarerecord.win
 0.0.0.0 www.powerwithyoursearch.com
 0.0.0.0 www.predictiondexchange.com
+0.0.0.0 www.preguntaleatutio.win
 0.0.0.0 www.privacy-search.company
 0.0.0.0 www.privacy-search.store
 0.0.0.0 www.privacy-search.xyz
