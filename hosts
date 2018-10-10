@@ -1,6 +1,7 @@
 # # Hosts contributed by thisisu
 # Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147
+# t.appsflyer.com - breaks snapchat registration 
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 000tracking.com
@@ -1802,7 +1803,6 @@
 0.0.0.0 grampsonteens.com
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.facebook.com
-0.0.0.0 graph.instagram.com
 0.0.0.0 greatene.com
 0.0.0.0 greatmp3converter.download
 0.0.0.0 greatwork.info
@@ -3307,6 +3307,7 @@
 0.0.0.0 rs.cmmmrkt.host
 0.0.0.0 rsqzd.linknotification.com
 0.0.0.0 rt32.thebestbur.com
+0.0.0.0 rtam-collector.appspot.com
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 rtb-propellerads.flshtrk.site
 0.0.0.0 rtb-propellerads.flshtrk.store
@@ -3391,6 +3392,7 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sbmijpifoszz.com
 0.0.0.0 sbscribeme.com
+0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sc.iasds01.com
 0.0.0.0 sc.tradetracker.net
 0.0.0.0 scamangels.porndoepremium.com
@@ -3945,7 +3947,6 @@
 0.0.0.0 sza.bi
 0.0.0.0 szgvv-group.com
 0.0.0.0 t.8p3xn5fg.science
-0.0.0.0 t.appsflyer.com
 0.0.0.0 t.bqtrk.com
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.dailymail.co.uk
