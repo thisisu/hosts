@@ -1,6 +1,5 @@
-# hosts
 # Hosts file for an improved browsing experience
-## Supports Windows and Android devices.
+## Supports Windows and Android devices
 ### Protection against:
 
 - Ads
