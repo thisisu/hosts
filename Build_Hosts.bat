@@ -17,12 +17,12 @@ SORT_ -f -u <"%TEMP%\hosts_fixme_002" >"%TEMP%\hosts_fixme_003"
 TYPE "E:\Github\hosts\header">"%TEMP%\hosts_final"
 TYPE "%TEMP%\hosts_fixme_003">>"%TEMP%\hosts_final"
 color 17
-sc config Dnscache start= disabled
-sc stop Dnscache
+sc config dnscache start= disabled
+sc stop dnscache
 NIRCMD wait 2000
 COPY /Y "%TEMP%\hosts_final" "%hostsD%\hosts"
 sc config Dnscache start= auto
-SC start Dnscache
+SC start dnscache
 NIRCMD WAIT 2000
 ipconfig /flushdns
 taskkill /f /im git.exe
