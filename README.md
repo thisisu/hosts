@@ -1,31 +1,17 @@
-# hosts
-Hosts file for a better browsing experience
+# Hosts file for an improved browsing experience
+## Supports Windows and Android devices
+### Protection against:
 
-Supports Windows and Android devices.
+- Ads
+- Adware
+- Analytics / Telemetry / Trackers
+- Browlock
+- Fraud / Scams
+- Gambling
+- Malvertising
+- Porn
+- Redirects
+- Rogue Browser Extensions
+- Rogue Google Play Store Apps
 
-Blocks:
-
-Ads
-
-Adware
-
-Analytics / Telemetry / Trackers
-
-Browlock
-
-Fraud / Scams
-
-Gambling
-
-Malvertising
-
-Porn
-
-Redirects
-
-Rogue Browser Extensions
-
-Rogue Google Play Store Apps
-
-
-Updated daily! Feel free to report any issues...
+### Updated daily!
