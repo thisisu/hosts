@@ -1,7 +1,6 @@
 # Hosts file for an improved browsing experience
-## Supports Windows and Android devices
-### Protection against:
 
+### Protection against:
 - Ads
 - Adware
 - Analytics / Telemetry / Trackers
@@ -13,5 +12,4 @@
 - Redirects
 - Rogue Browser Extensions
 - Rogue Google Play Store Apps
-
 ### Updated daily!
