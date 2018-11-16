@@ -1,6 +1,6 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -339,6 +339,7 @@
 0.0.0.0 ads.intentiq.com
 0.0.0.0 ads.juicyads.com
 0.0.0.0 ads.lfstmedia.com
+0.0.0.0 ads.lnklnk.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.mrgreen.com
 0.0.0.0 ads.nexage.com
@@ -671,6 +672,7 @@
 0.0.0.0 bcvc.mobi
 0.0.0.0 bd0x.3xk.xyz
 0.0.0.0 bdfrm.bidvertiser.com
+0.0.0.0 bdropbox.com
 0.0.0.0 bdzzz.it8omnzi.xlxfc.today
 0.0.0.0 beacon-nf.rubiconproject.com
 0.0.0.0 beacon-us-iad2.rubiconproject.com
@@ -1518,6 +1520,7 @@
 0.0.0.0 e8a31c08d0faff38f8bfa57c75d80828.awentw.com
 0.0.0.0 earprunerstemvisor.tk
 0.0.0.0 easilyverify.com
+0.0.0.0 eastcoastcraftshows.com
 0.0.0.0 easy-woo.com
 0.0.0.0 easygamepromo.com
 0.0.0.0 easylist.club
@@ -1575,6 +1578,7 @@
 0.0.0.0 enp1xfxf.top
 0.0.0.0 enter.javhd.com
 0.0.0.0 entertainment.blpmovies.com
+0.0.0.0 entfeedproxy.com
 0.0.0.0 entionale.info
 0.0.0.0 entretenimientolz.com
 0.0.0.0 eo8vs.voluumtrk.com
@@ -1719,6 +1723,7 @@
 0.0.0.0 filter.explorads.com
 0.0.0.0 filter.ezmob.com
 0.0.0.0 filter.flairads.com
+0.0.0.0 filter.looksmartppc.com
 0.0.0.0 filter.mediaconvers.com
 0.0.0.0 filter.mediacpc.com
 0.0.0.0 filter.mediashakers.com
@@ -2232,6 +2237,7 @@
 0.0.0.0 hypermetropia.pw
 0.0.0.0 hypermobiworld.com
 0.0.0.0 hyperosmia.pw
+0.0.0.0 hyperpietic.pw
 0.0.0.0 i-searchresults.com
 0.0.0.0 i.1dmp.co
 0.0.0.0 i.bimbolive.com
@@ -2940,6 +2946,7 @@
 0.0.0.0 mymedianetnow.com
 0.0.0.0 myofferlinkink.online
 0.0.0.0 myonline-installs-web-dev.win
+0.0.0.0 mypersonalzodiac.com
 0.0.0.0 mysagagame.com
 0.0.0.0 mysalefound.com
 0.0.0.0 mysdvvf.com
@@ -2965,6 +2972,9 @@
 0.0.0.0 n1272adserv.xyz
 0.0.0.0 n282adserv.com
 0.0.0.0 n2gk4jw.com
+0.0.0.0 n717ebcb50304e8e89000b225fbef9fc7.l.adsco.re
+0.0.0.0 n717ebcb50304e8e89000b225fbef9fc7.n.adsco.re
+0.0.0.0 n717ebcb50304e8e89000b225fbef9fc7.s.adsco.re
 0.0.0.0 n78.ascpvsheared.review
 0.0.0.0 na773883201988abeef4e8164ba4e3a30.l.adsco.re
 0.0.0.0 na773883201988abeef4e8164ba4e3a30.n.adsco.re
@@ -3435,6 +3445,7 @@
 0.0.0.0 privacyappprotect.com
 0.0.0.0 privacysecurityprotection.com
 0.0.0.0 privately-search.com
+0.0.0.0 privicyguard.com
 0.0.0.0 prize-info.club
 0.0.0.0 pro-market.net
 0.0.0.0 proadsredmsmt.com
@@ -3672,6 +3683,7 @@
 0.0.0.0 red.msperf.com
 0.0.0.0 redbait-redbird.stream
 0.0.0.0 redir.cleanmobi.download
+0.0.0.0 redir.jads.co
 0.0.0.0 redir.juicyads.com
 0.0.0.0 redirect.77words.com
 0.0.0.0 redirect.advconversion.com
@@ -4260,6 +4272,7 @@
 0.0.0.0 siteadvisoronline.com
 0.0.0.0 siteadvisorpc.com
 0.0.0.0 siteadvisorpc.net
+0.0.0.0 siteadvisorpc.org
 0.0.0.0 siteadvisorprotect.com
 0.0.0.0 sitionne.pro
 0.0.0.0 situational.biz
@@ -5044,6 +5057,7 @@
 0.0.0.0 uod2quk646.com
 0.0.0.0 up2date.themostpreparedforcontentready.download
 0.0.0.0 upahco.go2affise.com
+0.0.0.0 upd2.positivecheck.xyz
 0.0.0.0 update-flash-win64.xyz
 0.0.0.0 update.greatandonlygoodplacecontentsclear.review
 0.0.0.0 update2new.themostready2contenting.win
@@ -5217,6 +5231,7 @@
 0.0.0.0 viriepak.com
 0.0.0.0 visiney.com
 0.0.0.0 visit.net-at35.stream
+0.0.0.0 visitten.pw
 0.0.0.0 vistamatch39.club
 0.0.0.0 vistosearch.com
 0.0.0.0 visualstudio.sytes.net
@@ -5790,6 +5805,7 @@
 0.0.0.0 www.getgreatconcreteflash.icu
 0.0.0.0 www.getlnk10.com
 0.0.0.0 www.getlnk6.com
+0.0.0.0 www.getlnk7.com
 0.0.0.0 www.getlnk9.com
 0.0.0.0 www.getpaidto.com
 0.0.0.0 www.getpoliticalnews.com
@@ -5799,6 +5815,7 @@
 0.0.0.0 www.gettingallupdatesactuallysafethisweekbot.trade
 0.0.0.0 www.gettypeseparateaflash.icu
 0.0.0.0 www.getvolumemorenowcheapcover4newslive.bid
+0.0.0.0 www.gillmanhondaftbend.com
 0.0.0.0 www.girls.escapetube.com
 0.0.0.0 www.girlsvideosonline.info
 0.0.0.0 www.globaladulttraffic.com
@@ -5862,6 +5879,7 @@
 0.0.0.0 www.holisticyou.club
 0.0.0.0 www.holllirherope.com
 0.0.0.0 www.holonis.com
+0.0.0.0 www.homebuyhomes.com
 0.0.0.0 www.hookupsfinder.com
 0.0.0.0 www.hosicom-lirur.com
 0.0.0.0 www.hostflashlive.stream
@@ -6225,6 +6243,7 @@
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.reliableonlystablelinkgreat.icu
 0.0.0.0 www.remintrex.com
+0.0.0.0 www.res-x.com
 0.0.0.0 www.retailproductzone.com
 0.0.0.0 www.retrieveica.com
 0.0.0.0 www.rewardingways.com
@@ -6542,6 +6561,7 @@
 0.0.0.0 www.yatar.win
 0.0.0.0 www.yceml.net
 0.0.0.0 www.yemobiads.com
+0.0.0.0 www.yesmedate.com
 0.0.0.0 www.yestardysewatchsport4freeomndemand.stream
 0.0.0.0 www.yestardysewatchsport4freeomndemand.trade
 0.0.0.0 www.you-have-0ne-messsagex40.club
@@ -6660,6 +6680,8 @@
 0.0.0.0 xadultlife.com
 0.0.0.0 xapi.juicyads.com
 0.0.0.0 xbingtrack.xyz
+0.0.0.0 xcams.admo.tv
+0.0.0.0 xcams.images-dnxlive.com
 0.0.0.0 xcelleration.info
 0.0.0.0 xch.smrtgs.com
 0.0.0.0 xdc.suitedconnector.com
