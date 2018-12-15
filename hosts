@@ -1,4 +1,5 @@
 # # Hosts contributed by thisisu
+# 0.0.0.0 reports.crashlytics.com # FUCKING SPAMMED
 # Amazon abuse: 54.89.168.225
 # Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147
@@ -1738,6 +1739,7 @@
 0.0.0.0 eolipile.us
 0.0.0.0 eoredi.com
 0.0.0.0 eovnx.com
+0.0.0.0 epbathcyav.com
 0.0.0.0 epcmasters.offerit.com
 0.0.0.0 epi0tzwi.com
 0.0.0.0 epic-company.com
@@ -2936,6 +2938,7 @@
 0.0.0.0 m.spdate.com
 0.0.0.0 m.stripe.network
 0.0.0.0 m.tuvisioncanal.com
+0.0.0.0 m.us.cefapa.com
 0.0.0.0 m.xdating.com
 0.0.0.0 m.xeaggq4cqv.com
 0.0.0.0 m.ygr8upsw42.com
@@ -3881,6 +3884,7 @@
 0.0.0.0 pushlaram.com
 0.0.0.0 pushlinck.com
 0.0.0.0 pushlommy.com
+0.0.0.0 pushnevis.com
 0.0.0.0 pushnice.com
 0.0.0.0 pushno.com
 0.0.0.0 pushnotificationx.com
@@ -4132,7 +4136,6 @@
 0.0.0.0 replied-acholuria.stream
 0.0.0.0 reporo.net
 0.0.0.0 report-site.com
-0.0.0.0 reports.crashlytics.com
 0.0.0.0 reprisal-acmic.stream
 0.0.0.0 res.cloudinary.com
 0.0.0.0 resentaticexhaus.info
@@ -4681,6 +4684,7 @@
 0.0.0.0 siteadvisorprotect.com
 0.0.0.0 siteadvisorweb.com
 0.0.0.0 siteadvisorwin.com
+0.0.0.0 sitemnk.com
 0.0.0.0 sitionne.pro
 0.0.0.0 situational.biz
 0.0.0.0 skim.clickaine.com
@@ -5475,6 +5479,7 @@
 0.0.0.0 trktrk067.com
 0.0.0.0 trkur4.com
 0.0.0.0 trkur5.com
+0.0.0.0 trmnsite.com
 0.0.0.0 trottedsix.pw
 0.0.0.0 trowel.twitch.tv
 0.0.0.0 true2file.com
