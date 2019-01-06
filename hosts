@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197
-# Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147
+# Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 000tracking.com
@@ -3425,6 +3425,7 @@
 0.0.0.0 nightteen.com
 0.0.0.0 nihaovideo.com
 0.0.0.0 ninjagod.com
+0.0.0.0 nissannews.pw
 0.0.0.0 nitratory.com
 0.0.0.0 nitrogensports.eu
 0.0.0.0 njump.youmobistein.com
