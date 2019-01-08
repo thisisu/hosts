@@ -1,6 +1,6 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -613,6 +613,7 @@
 0.0.0.0 appformob.com
 0.0.0.0 appgasstation.com
 0.0.0.0 application-77my.com
+0.0.0.0 applicationbest.com
 0.0.0.0 appnexus-partners.tremorhub.com
 0.0.0.0 appofferdownloadstore.com
 0.0.0.0 appping-140507.appspot.com
@@ -1329,7 +1330,7 @@
 0.0.0.0 connectsonlinestechhdev.site
 0.0.0.0 connexity.net
 0.0.0.0 conredirect.ga
-0.0.0.0 constintptr.com
+0.0.0.0 constintptr.com # =AR= http://constintptr.com/afu.php?zoneid=1407888&var=1675303
 0.0.0.0 contact-us.suitedconnector.com
 0.0.0.0 content.etoro.com
 0.0.0.0 control.kochava.com
@@ -1457,6 +1458,7 @@
 0.0.0.0 d2qjy1w8h7c80t.cloudfront.net
 0.0.0.0 d2s.olympuswaymarketing.com
 0.0.0.0 d2yj0mkqmjys1a.cloudfront.net
+0.0.0.0 d2zer6x4kii8kz.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d321mwvejvvkmo.cloudfront.net
 0.0.0.0 d35cz6fjmi79n8.cloudfront.net
@@ -4154,6 +4156,7 @@
 0.0.0.0 realestatetoown.com
 0.0.0.0 reallifecam.com
 0.0.0.0 reallygoodlink.extreme3d.games
+0.0.0.0 reallygoodlink.freehookupaffair.com
 0.0.0.0 reallygoodlink.jennysblog.net
 0.0.0.0 realtor.us
 0.0.0.0 reasonableclicks.club
@@ -4279,6 +4282,7 @@
 0.0.0.0 rhfgjld.com
 0.0.0.0 rhing.site
 0.0.0.0 rhqrfnkngrhrha.com
+0.0.0.0 ridit.xyz
 0.0.0.0 rifampin.stream
 0.0.0.0 ripplecanon.online
 0.0.0.0 risk-68wq8.stream
@@ -4293,6 +4297,7 @@
 0.0.0.0 ro88qcuy.com
 0.0.0.0 roblox.com
 0.0.0.0 rock-johnson.com
+0.0.0.0 rock.adpiano.com
 0.0.0.0 rockababy.band
 0.0.0.0 rockcitybabes.com
 0.0.0.0 rockinpornchicks.com
@@ -4405,6 +4410,7 @@
 0.0.0.0 safevision.info
 0.0.0.0 sailorlamb.pro
 0.0.0.0 sambaranoka.stream
+0.0.0.0 sandsitedrhec.club
 0.0.0.0 santaantiar.stream
 0.0.0.0 sashoff.com
 0.0.0.0 saulbass.tv
@@ -4602,6 +4608,7 @@
 0.0.0.0 seoclubs.pw
 0.0.0.0 seposed-becuthout.com
 0.0.0.0 sepyqhipq.com
+0.0.0.0 serve.aarth.net
 0.0.0.0 serve.adworldmedia.com
 0.0.0.0 serve.funhamper.com
 0.0.0.0 serve.iplclub.com
@@ -4789,6 +4796,7 @@
 0.0.0.0 signup.surveysandpromotionsonline.com
 0.0.0.0 signup.sweepstakesgroup.com
 0.0.0.0 signyoga.com
+0.0.0.0 silk.refrigerator.host
 0.0.0.0 simplaex.go2cloud.org
 0.0.0.0 simplepaleotips.com
 0.0.0.0 simpli.fi
@@ -5201,6 +5209,7 @@
 0.0.0.0 tech-life.life
 0.0.0.0 tech4-you.com
 0.0.0.0 techeligious.com
+0.0.0.0 technotalks.xyz
 0.0.0.0 techscan.club
 0.0.0.0 tecises-blivan.com
 0.0.0.0 ted.dailymail.co.uk
@@ -6187,6 +6196,7 @@
 0.0.0.0 www.animaljam.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.anydealconcreteflash.club
+0.0.0.0 www.anytypeaptitudeliteflash.icu
 0.0.0.0 www.apollo-affiliates.com
 0.0.0.0 www.apolloecigs.com
 0.0.0.0 www.app-scan.com
@@ -6814,6 +6824,8 @@
 0.0.0.0 www.mgid.com
 0.0.0.0 www.microsoft.com-repair-windows.live
 0.0.0.0 www.midmakefastflash.xyz
+0.0.0.0 www.migaffiliate.com
+0.0.0.0 www.migvapor.com
 0.0.0.0 www.millennialshumor.com
 0.0.0.0 www.mixflashentry.review
 0.0.0.0 www.mixflashsport.bid
@@ -7181,6 +7193,7 @@
 0.0.0.0 www.sonaughty.com
 0.0.0.0 www.sopadre.com
 0.0.0.0 www.soulcams.com
+0.0.0.0 www.southbeachsmoke.com
 0.0.0.0 www.spicearay.com
 0.0.0.0 www.spiritbusiness.pw
 0.0.0.0 www.spitrck.com
@@ -7401,6 +7414,7 @@
 0.0.0.0 www.wikedfiremedia.com
 0.0.0.0 www.wiljikon.win
 0.0.0.0 www.winactiv.com
+0.0.0.0 www.windowdowngradebestliteflash.icu
 0.0.0.0 www.windows.com-fix-protection.live
 0.0.0.0 www.windows.com-fix-protections.live
 0.0.0.0 www.winningpokernetwork.com
@@ -7486,6 +7500,7 @@
 0.0.0.0 www2.dotypeappleaflash.icu
 0.0.0.0 www2.dotypeupgradeaflash.icu
 0.0.0.0 www2.fasterbestupdateflash.icu
+0.0.0.0 www2.fastertypefreshaflash.icu
 0.0.0.0 www2.fastregularhomeflesh.icu
 0.0.0.0 www2.fasttypeupgradeflash.icu
 0.0.0.0 www2.fastupgradedealflash.icu
