@@ -1,6 +1,6 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -138,6 +138,7 @@
 0.0.0.0 4-search.com
 0.0.0.0 404.s77.live
 0.0.0.0 40ceexln7929.com
+0.0.0.0 411playz.com
 0.0.0.0 4249938.fls.doubleclick.net
 0.0.0.0 455484361.highrtb.com
 0.0.0.0 48-stuff-o.com
@@ -617,6 +618,7 @@
 0.0.0.0 appgasstation.com
 0.0.0.0 application-77my.com
 0.0.0.0 applicationbest.com
+0.0.0.0 applicationfun.com
 0.0.0.0 appnexus-partners.tremorhub.com
 0.0.0.0 appofferdownloadstore.com
 0.0.0.0 appping-140507.appspot.com
@@ -866,6 +868,7 @@
 0.0.0.0 bnagx.com
 0.0.0.0 bobtrk.com
 0.0.0.0 bodelen.com # =AR= https://bodelen.com/afu.php?zoneid=1407888&var=2126508
+0.0.0.0 bohemuchnehe.club
 0.0.0.0 bomne.ab4hr.com
 0.0.0.0 bongacams.com
 0.0.0.0 bongacams2.com
@@ -875,6 +878,7 @@
 0.0.0.0 boo-love.com
 0.0.0.0 boob.ro
 0.0.0.0 boobyliscious.com
+0.0.0.0 bookbudd.com
 0.0.0.0 boondoggling.stream
 0.0.0.0 boos.leadloans.co.uk
 0.0.0.0 boozier.stream
@@ -1779,6 +1783,7 @@
 0.0.0.0 enable-private-browsing.com
 0.0.0.0 endpoint1.a4g.com
 0.0.0.0 endpoint1.dspbox.io
+0.0.0.0 endpoint10.dspbox.io
 0.0.0.0 endpoint3.a4g.com
 0.0.0.0 endpoint5.a4g.com
 0.0.0.0 endpoint9.a4g.com
@@ -1870,6 +1875,7 @@
 0.0.0.0 f5v1x3kgv5.com
 0.0.0.0 f6c13.offerzone.click
 0.0.0.0 f6cdd.offerzone.click
+0.0.0.0 f6d42.offerzone.click
 0.0.0.0 fa84aqv7keg0g2beglobt8-wag.hop.clickbank.net
 0.0.0.0 fabledfashion.com
 0.0.0.0 face-book.pro
@@ -1956,6 +1962,7 @@
 0.0.0.0 filter.explorads.com
 0.0.0.0 filter.ezmob.com
 0.0.0.0 filter.flairads.com
+0.0.0.0 filter.laheatads.com
 0.0.0.0 filter.looksmartppc.com
 0.0.0.0 filter.mediaconvers.com
 0.0.0.0 filter.mediacpc.com
@@ -3200,6 +3207,7 @@
 0.0.0.0 mob.unberllerclick.com
 0.0.0.0 mobi.aleady.com
 0.0.0.0 mobi.andivid.com
+0.0.0.0 mobi.haldest.com
 0.0.0.0 mobile-feed.com
 0.0.0.0 mobile-hotfixx0.site
 0.0.0.0 mobile-up-to-date.site
@@ -3753,6 +3761,7 @@
 0.0.0.0 peninsulaaccountings.com
 0.0.0.0 penis-bible-tips.com
 0.0.0.0 pennsvillepost.com
+0.0.0.0 pepgamez.com
 0.0.0.0 peppx.ab4hr.com
 0.0.0.0 percaleten.stream
 0.0.0.0 perfectgirls.net
@@ -4109,6 +4118,7 @@
 0.0.0.0 r.a9g.io
 0.0.0.0 r.adserver01.de
 0.0.0.0 r.advaloo.com
+0.0.0.0 r.certified-source.com
 0.0.0.0 r.com-download.site
 0.0.0.0 r.com-register.online
 0.0.0.0 r.d2mailings.com
@@ -6144,6 +6154,7 @@
 0.0.0.0 ww1.monetizemytraffic.com
 0.0.0.0 ww1.xtapes.com
 0.0.0.0 ww2.genremediagroup.net
+0.0.0.0 ww2.networkmediaworks.com
 0.0.0.0 ww3.viraltungsten.com
 0.0.0.0 ww38.hitimi.la
 0.0.0.0 ww38.netone.ps
@@ -6467,6 +6478,7 @@
 0.0.0.0 www.effectivemorepproffesionalway4comunication.win
 0.0.0.0 www.electronicproductzone.com
 0.0.0.0 www.elitemate.com
+0.0.0.0 www.emarkettrack1.com
 0.0.0.0 www.emjcd.com
 0.0.0.0 www.empiri.win
 0.0.0.0 www.endocrineweb.com
@@ -6750,6 +6762,7 @@
 0.0.0.0 www.jstqcal.com
 0.0.0.0 www.juguetonn.win
 0.0.0.0 www.jzzav.com
+0.0.0.0 www.kaokabgames.com
 0.0.0.0 www.katestube.live
 0.0.0.0 www.kbb.com
 0.0.0.0 www.khanwars.com
@@ -7443,6 +7456,7 @@
 0.0.0.0 www.wikedfiremedia.com
 0.0.0.0 www.wiljikon.win
 0.0.0.0 www.winactiv.com
+0.0.0.0 www.windowdltypeliteflash.icu
 0.0.0.0 www.windowdowngradebestliteflash.icu
 0.0.0.0 www.windows.com-fix-protection.live
 0.0.0.0 www.windows.com-fix-protections.live
@@ -7561,6 +7575,7 @@
 0.0.0.0 www2.newlonggetflash.club
 0.0.0.0 www2.newregularhomeflesh.club
 0.0.0.0 www2.newregularstartflesh.xyz
+0.0.0.0 www2.newsclouddealliteflash.icu
 0.0.0.0 www2.newsconcretegreataflash.icu
 0.0.0.0 www2.newseparatetypeaflash.icu
 0.0.0.0 www2.newupgradebestflash.icu
@@ -7666,6 +7681,7 @@
 0.0.0.0 xml.hueads.com
 0.0.0.0 xml.infinity-info.com
 0.0.0.0 xml.junnify.com
+0.0.0.0 xml.laheatads.com
 0.0.0.0 xml.leoyard.com
 0.0.0.0 xml.looksmartppc.com
 0.0.0.0 xml.mediaconvers.com
