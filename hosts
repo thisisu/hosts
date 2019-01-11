@@ -1,6 +1,6 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -1571,6 +1571,7 @@
 0.0.0.0 desk.prfdesk.pro
 0.0.0.0 desklks.com
 0.0.0.0 desktop.push-alert.email
+0.0.0.0 desktopaplication.info
 0.0.0.0 desktoping.info
 0.0.0.0 desktopsofting.info
 0.0.0.0 desktopsofts.info
@@ -2966,6 +2967,7 @@
 0.0.0.0 login-us-support.online
 0.0.0.0 login.dotomi.com
 0.0.0.0 loginfaster.com
+0.0.0.0 logizo.website
 0.0.0.0 logx.optimizely.com
 0.0.0.0 loki5.info
 0.0.0.0 lomeway.go2cloud.org
@@ -5328,6 +5330,7 @@
 0.0.0.0 tiwinspires.com
 0.0.0.0 tk.immereeako.info
 0.0.0.0 tk.kargo.com
+0.0.0.0 tkhmr.peakonsrv.com
 0.0.0.0 tl813.com
 0.0.0.0 tlkdotbrickiest.xyz
 0.0.0.0 tmtrck.com
@@ -5736,6 +5739,7 @@
 0.0.0.0 unid.go.com
 0.0.0.0 unidingcom.com
 0.0.0.0 uniontribune.org
+0.0.0.0 uniquecaptcha.com
 0.0.0.0 unitedhow.com
 0.0.0.0 universal.iperceptions.com
 0.0.0.0 universaldatin.blogspot.com
@@ -5780,6 +5784,7 @@
 0.0.0.0 upgrade.thebestperformancespotformachinenow.download
 0.0.0.0 upgrade12check.pushingnewforcontentinggo.stream
 0.0.0.0 upgrade4life.thegreat4updatemove.download
+0.0.0.0 upgradebestfuturetheclicks.icu
 0.0.0.0 upgradecheck12.morecheaplinkexchangeperformance.download
 0.0.0.0 upgradedetails.com  
 0.0.0.0 upgradeget.havingalwaysthebestisessentialnow.date
