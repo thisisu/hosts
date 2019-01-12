@@ -1,6 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0
+# Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2018)
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -1909,6 +1910,7 @@
 0.0.0.0 fastdatinglife.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastmotion.online
+0.0.0.0 fastnewstream.com
 0.0.0.0 fastpic.ru
 0.0.0.0 fastspeedtestnow.com
 0.0.0.0 fatdiminisher.com
@@ -2918,6 +2920,7 @@
 0.0.0.0 limuloid.pw
 0.0.0.0 linalool.pw
 0.0.0.0 lingated-biontalic.com
+0.0.0.0 lingintirejohny.club
 0.0.0.0 lingoeten.stream
 0.0.0.0 link.bcnmonetize.com
 0.0.0.0 link.linksoptimizer.com
@@ -4102,6 +4105,7 @@
 0.0.0.0 qentiko-dormat-fixing.xyz
 0.0.0.0 qhqrtjgsnu.com
 0.0.0.0 qileyn.com
+0.0.0.0 qlamy.com
 0.0.0.0 qlx.pw
 0.0.0.0 qr9ln.bemobtrk.com
 0.0.0.0 qra0ct.top
@@ -5845,6 +5849,7 @@
 0.0.0.0 usa.quebec-lea.com
 0.0.0.0 usa.timaeus-lui.com
 0.0.0.0 usa.xanthos-alf.com
+0.0.0.0 usage.trackjs.com
 0.0.0.0 usamedicshop.com
 0.0.0.0 usd.dauid-iep.com
 0.0.0.0 usd.india-abc.com
