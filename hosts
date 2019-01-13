@@ -1,6 +1,6 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
-# Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2018)
+# Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
 # Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
@@ -2130,6 +2130,7 @@
 0.0.0.0 ftrgkbilbos.review
 0.0.0.0 fuck-journey.com
 0.0.0.0 fuck-network.com1.host
+0.0.0.0 fuck.it
 0.0.0.0 fuckbookdating.com
 0.0.0.0 fuckbookxxx.com
 0.0.0.0 fuckedsnap.com
@@ -4371,6 +4372,7 @@
 0.0.0.0 rtb.adentifi.com
 0.0.0.0 rtb.divatraffic.bid
 0.0.0.0 rtb.gumgum.com
+0.0.0.0 rtb.mfadsrvr.com
 0.0.0.0 rtb.nativeads.com
 0.0.0.0 rtb.track360.pw
 0.0.0.0 rtb0.doubleverify.com
