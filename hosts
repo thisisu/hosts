@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -1882,6 +1882,7 @@
 0.0.0.0 f6c13.offerzone.click
 0.0.0.0 f6cdd.offerzone.click
 0.0.0.0 f6d42.offerzone.click
+0.0.0.0 f6e71.offerzone.click
 0.0.0.0 fa84aqv7keg0g2beglobt8-wag.hop.clickbank.net
 0.0.0.0 fabledfashion.com
 0.0.0.0 face-book.pro
@@ -2631,6 +2632,7 @@
 0.0.0.0 indextrck.com
 0.0.0.0 indirected.org
 0.0.0.0 ineity.pro
+0.0.0.0 inf-o.site
 0.0.0.0 info-apps.xyz
 0.0.0.0 info.search-privacy.org
 0.0.0.0 info.searchprivacy.me
@@ -2804,6 +2806,7 @@
 0.0.0.0 jump.link-boost.com
 0.0.0.0 jump.linked-extension.com
 0.0.0.0 jumptracker.com
+0.0.0.0 justant-magraphic.com
 0.0.0.0 justifiers.stream
 0.0.0.0 justredirect25.com
 0.0.0.0 justrightmarket.com
@@ -3863,6 +3866,7 @@
 0.0.0.0 pm48j.top
 0.0.0.0 pmrao.imideals.com
 0.0.0.0 poc001.site
+0.0.0.0 poc002.site
 0.0.0.0 pocosens.icu
 0.0.0.0 pod.tdnclicks.com
 0.0.0.0 podiumfloors.com
@@ -6185,6 +6189,7 @@
 0.0.0.0 wwtrackin.com
 0.0.0.0 www.0q2iqkolyx.com
 0.0.0.0 www.1-1ads.com
+0.0.0.0 www.101onlinedegrees.com
 0.0.0.0 www.11kt.pw
 0.0.0.0 www.123move.tk
 0.0.0.0 www.12up.com
@@ -6949,6 +6954,7 @@
 0.0.0.0 www.netfaps.com
 0.0.0.0 www.newandawesomecontentcontainer.review
 0.0.0.0 www.newdealaskflash.icu
+0.0.0.0 www.newform.xyz
 0.0.0.0 www.newgreatupdateflash.icu
 0.0.0.0 www.newlivecams.com
 0.0.0.0 www.news-subscribe.com
@@ -7471,6 +7477,7 @@
 0.0.0.0 www.weathertab4you3.com
 0.0.0.0 www.webdesignledger.com
 0.0.0.0 www.webgirls.cam
+0.0.0.0 www.webpuck.xyz
 0.0.0.0 www.weddingtank.com
 0.0.0.0 www.whengirlsplay.com
 0.0.0.0 www.whizstats.com
@@ -7548,6 +7555,7 @@
 0.0.0.0 www.zkml.info
 0.0.0.0 www.zonemotoring.website
 0.0.0.0 www.zoominnovate.online
+0.0.0.0 www.zwoops.com
 0.0.0.0 www1.bang.com
 0.0.0.0 www1.legacy.fraudfree.net
 0.0.0.0 www1.securybrowse.com
