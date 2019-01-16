@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -58,6 +58,7 @@
 0.0.0.0 1841912947.weblevell.com
 0.0.0.0 1866websupport.com
 0.0.0.0 18yoga.com
+0.0.0.0 1974461532.rsc.cdn77.org
 0.0.0.0 1d5e04ea053.traffic-c.com
 0.0.0.0 1dmp.co
 0.0.0.0 1ea1sley.com
@@ -2262,6 +2263,7 @@
 0.0.0.0 gl.immereeako.info
 0.0.0.0 gl2021.info
 0.0.0.0 glbtrk.com
+0.0.0.0 global-system-settings.online
 0.0.0.0 global.ib-ibi.com
 0.0.0.0 global.localizecdn.com
 0.0.0.0 global.ymtracking.com
@@ -3643,6 +3645,7 @@
 0.0.0.0 onlinecatalog.ikea-usa.com
 0.0.0.0 onlineinstallsnetdevelopment.win
 0.0.0.0 onlinephoneinstalls2016.site
+0.0.0.0 onlineshopz4.xyz
 0.0.0.0 onlineultra.com
 0.0.0.0 onlineupdate.ga
 0.0.0.0 onlineupgrade.mypointofforcontentnew.stream
@@ -5872,6 +5875,7 @@
 0.0.0.0 us.finditquick.online
 0.0.0.0 us.imgsrvc.com
 0.0.0.0 us.r1us09af.xyz
+0.0.0.0 us.r2us09af.xyz
 0.0.0.0 us.romwe.com
 0.0.0.0 us.shein.com
 0.0.0.0 us.traackinst.com
@@ -7714,6 +7718,7 @@
 0.0.0.0 xhamsterpremium.com
 0.0.0.0 xl-trk.com
 0.0.0.0 xml.active8ads.com
+0.0.0.0 xml.activerevenue.com
 0.0.0.0 xml.adcy.net
 0.0.0.0 xml.additionalmedia.com
 0.0.0.0 xml.adglance.com
