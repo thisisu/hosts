@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -132,6 +132,7 @@
 0.0.0.0 3773b6cf600f775304f7489130b3d7d1.awentw.com
 0.0.0.0 3d7l.godlesslytqhop.download
 0.0.0.0 3jmcwio.com
+0.0.0.0 3k43d.com
 0.0.0.0 3lift.com
 0.0.0.0 3pu7u.com
 0.0.0.0 3stepstamina.com
@@ -146,6 +147,7 @@
 0.0.0.0 455484361.highrtb.com
 0.0.0.0 48-stuff-o.com
 0.0.0.0 4830912.fls.doubleclick.net
+0.0.0.0 48hk2.com
 0.0.0.0 49feqdpw.com
 0.0.0.0 4c7og3qcob.com
 0.0.0.0 4ed3a91ef0.smapp.work
@@ -253,6 +255,7 @@
 0.0.0.0 a8yqyd075brv1.iot.eu-west-1.amazonaws.com
 0.0.0.0 aa.agkn.com
 0.0.0.0 aadvantagex.top
+0.0.0.0 aamaxon.com
 0.0.0.0 aanqylta.com
 0.0.0.0 aaoszhvwsagenes.review
 0.0.0.0 aarp.go2cloud.org
@@ -511,6 +514,7 @@
 0.0.0.0 alfredwenzlsenior.clickfunnels.com
 0.0.0.0 alhadin.nl
 0.0.0.0 alibaba.com
+0.0.0.0 aliquantbox.icu
 0.0.0.0 all.getextensions.net
 0.0.0.0 allbigdebugsoftwares.download
 0.0.0.0 alldatadiy.affiliatetechnology.com
@@ -1030,6 +1034,7 @@
 0.0.0.0 cashoutannuity.site
 0.0.0.0 cashrequestonline.com
 0.0.0.0 cashwinners.win
+0.0.0.0 casinoandcasino.com
 0.0.0.0 castletlighterage.xyz
 0.0.0.0 casual-love-finder.com
 0.0.0.0 casual.civilizatory.stream
@@ -2259,6 +2264,7 @@
 0.0.0.0 girlsandbeer.com
 0.0.0.0 girrjaqgjb.com
 0.0.0.0 girrrly.com
+0.0.0.0 girrrly.today
 0.0.0.0 giveaways-v1.curseapp.net
 0.0.0.0 gl.immereeako.info
 0.0.0.0 gl2021.info
@@ -3646,6 +3652,7 @@
 0.0.0.0 onlinecatalog.ikea-usa.com
 0.0.0.0 onlineinstallsnetdevelopment.win
 0.0.0.0 onlinephoneinstalls2016.site
+0.0.0.0 onlineshopz2.xyz
 0.0.0.0 onlineshopz4.xyz
 0.0.0.0 onlineultra.com
 0.0.0.0 onlineupdate.ga
@@ -4147,6 +4154,8 @@
 0.0.0.0 qr9ln.bemobtrk.com
 0.0.0.0 qra0ct.top
 0.0.0.0 qrlsx.com
+0.0.0.0 quadency.com
+0.0.0.0 quadency.go2cloud.org
 0.0.0.0 quadrinhoseroticos.net
 0.0.0.0 quantil.jsdelivr.net
 0.0.0.0 qubzz.it8omnzi.xlxfc.today
@@ -4234,6 +4243,7 @@
 0.0.0.0 realestatetoown.com
 0.0.0.0 reallifecam.com
 0.0.0.0 reallygoodlink.extreme3d.games
+0.0.0.0 reallygoodlink.free3dadultgames.com
 0.0.0.0 reallygoodlink.freehookupaffair.com
 0.0.0.0 reallygoodlink.jennysblog.net
 0.0.0.0 realtor.us
@@ -4461,6 +4471,7 @@
 0.0.0.0 s.nitropay.com
 0.0.0.0 s.pmddby.com
 0.0.0.0 s.pubmine.com
+0.0.0.0 s.pureleads.com
 0.0.0.0 s.spoutable.com
 0.0.0.0 s.sspqns.com
 0.0.0.0 s.tinb.net
@@ -6137,6 +6148,7 @@
 0.0.0.0 wgaffiliate.com
 0.0.0.0 wgfya.bemobtrk.com
 0.0.0.0 wgieveorigin.review
+0.0.0.0 whalecashads.com
 0.0.0.0 whatmensecretlywant.com
 0.0.0.0 whatsyourflower.com
 0.0.0.0 wheedran.com
@@ -6758,6 +6770,7 @@
 0.0.0.0 www.healthynation.pw
 0.0.0.0 www.hellobusiness.com
 0.0.0.0 www.helloearth.com
+0.0.0.0 www.hellosanfrancisco.com
 0.0.0.0 www.hellounitedstates.com
 0.0.0.0 www.hereisthepassion.com
 0.0.0.0 www.herstage.com
