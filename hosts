@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -43,6 +43,7 @@
 0.0.0.0 12updatenew.themainplacetogetgoodcontentnow.trade
 0.0.0.0 12updatenew.yoursummertime-greatcontent.download
 0.0.0.0 14119276be0852.com
+0.0.0.0 151e47c1929d55bb71.walmartcard.top
 0.0.0.0 152637fb45cb928b74.beautyfitnessandhealth.com
 0.0.0.0 1531434754.rsc.cdn77.org
 0.0.0.0 155d4354463c158b67.sweeps.world
@@ -229,6 +230,7 @@
 0.0.0.0 9jogo.top
 0.0.0.0 9n2hupgl.top
 0.0.0.0 9nl.org
+0.0.0.0 9oo91e.com
 0.0.0.0 9rendezvous-l.com
 0.0.0.0 9utwbj08.top
 0.0.0.0 a-ads.com
@@ -363,6 +365,7 @@
 0.0.0.0 adprohub.com
 0.0.0.0 adregal.com
 0.0.0.0 ads-a.juicyads.com
+0.0.0.0 ads-us.pictela.net
 0.0.0.0 ads.ad4game.com
 0.0.0.0 ads.adamoads.com
 0.0.0.0 ads.adaptv.advertising.com
@@ -514,6 +517,7 @@
 0.0.0.0 alfredwenzlsenior.clickfunnels.com
 0.0.0.0 alhadin.nl
 0.0.0.0 alibaba.com
+0.0.0.0 alineshow.host
 0.0.0.0 aliquantbox.icu
 0.0.0.0 all.getextensions.net
 0.0.0.0 allbigdebugsoftwares.download
@@ -834,6 +838,7 @@
 0.0.0.0 bindery-catcher.stream
 0.0.0.0 binocularhearing.top 
 0.0.0.0 binom.news-subscribe.com
+0.0.0.0 binom.topscoupons.com
 0.0.0.0 bintips2.club
 0.0.0.0 biology-chidden.stream
 0.0.0.0 bipedal-cragged.stream
@@ -1451,6 +1456,7 @@
 0.0.0.0 cybertecz.com
 0.0.0.0 cybertool.co
 0.0.0.0 cyclebodysigns.com
+0.0.0.0 cygi.medperformsrv.com
 0.0.0.0 cypselae.stream
 0.0.0.0 cytmedia.com
 0.0.0.0 czechvideo.org
@@ -2114,6 +2120,7 @@
 0.0.0.0 freemmo2017.com
 0.0.0.0 freepornleg.com
 0.0.0.0 freepornosexy.com
+0.0.0.0 freerpgonline.net
 0.0.0.0 freesolutions2018.com
 0.0.0.0 freeteen.com
 0.0.0.0 freevideostyle.com
@@ -2236,6 +2243,7 @@
 0.0.0.0 get.trustnav.com
 0.0.0.0 get24update.readysetandgocontenting.trade
 0.0.0.0 get35.com
+0.0.0.0 getbestdowngradetheclicks.live
 0.0.0.0 getbitly.com
 0.0.0.0 getclicky.com
 0.0.0.0 getdoctopdf.com
@@ -2333,6 +2341,7 @@
 0.0.0.0 go2searching.com
 0.0.0.0 goabd.ru
 0.0.0.0 gocpvpro.com
+0.0.0.0 gocqle.com
 0.0.0.0 godigitaltargetedemail.com
 0.0.0.0 gogamego.thewhizproducts.com
 0.0.0.0 goldenmachines.trade
@@ -2626,6 +2635,7 @@
 0.0.0.0 ima3vpaid.appspot.com
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 images.outbrainimg.com
+0.0.0.0 img.revcontent.com
 0.0.0.0 imgfarm.com
 0.0.0.0 imlive.com
 0.0.0.0 immunobiology.space
@@ -3424,6 +3434,7 @@
 0.0.0.0 n717ebcb50304e8e89000b225fbef9fc7.n.adsco.re
 0.0.0.0 n717ebcb50304e8e89000b225fbef9fc7.s.adsco.re
 0.0.0.0 n78.ascpvsheared.review
+0.0.0.0 na.ads.yahoo.com
 0.0.0.0 na773883201988abeef4e8164ba4e3a30.l.adsco.re
 0.0.0.0 na773883201988abeef4e8164ba4e3a30.n.adsco.re
 0.0.0.0 na773883201988abeef4e8164ba4e3a30.s.adsco.re
@@ -3898,6 +3909,7 @@
 0.0.0.0 pluvialone.stream
 0.0.0.0 plvlp.datefacebookgirl.com
 0.0.0.0 plx.porndig.com
+0.0.0.0 plywoods.host
 0.0.0.0 plzgwsn.com
 0.0.0.0 pm.instantfuns.com
 0.0.0.0 pm48j.top
@@ -4061,6 +4073,7 @@
 0.0.0.0 push-notification.top
 0.0.0.0 push-notifications.top
 0.0.0.0 push-signals.online
+0.0.0.0 push.carewomenhealth.com
 0.0.0.0 push.ext.media
 0.0.0.0 push.notifications.vip
 0.0.0.0 pushame.com
@@ -5674,6 +5687,7 @@
 0.0.0.0 triaged.stream
 0.0.0.0 tribalfusion.com
 0.0.0.0 trick.matchoatmeal.icu
+0.0.0.0 tricsdqejmu.com
 0.0.0.0 trigtent.com
 0.0.0.0 triguilty-pations.com
 0.0.0.0 trinefour.pw
@@ -6227,6 +6241,7 @@
 0.0.0.0 ws1.freedomstreaming.io
 0.0.0.0 wsp.mgid.com
 0.0.0.0 wsservices.org
+0.0.0.0 wtahsapp.com
 0.0.0.0 wurgaxfamfgyo.com
 0.0.0.0 wvw.disabledbuddies.com
 0.0.0.0 ww.onlygreatvids.com
@@ -6858,6 +6873,7 @@
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kraftrecipes.com
 0.0.0.0 www.kryptex.org
+0.0.0.0 www.kuchhbhi2.xyz
 0.0.0.0 www.kuhls2ao.top
 0.0.0.0 www.laboratorycenterconecpt.com
 0.0.0.0 www.lafehanicese.com
@@ -7721,6 +7737,7 @@
 0.0.0.0 xadultlife.com
 0.0.0.0 xapi.juicyads.com
 0.0.0.0 xbingtrack.xyz
+0.0.0.0 xc.messengner.com
 0.0.0.0 xcams.admo.tv
 0.0.0.0 xcams.images-dnxlive.com
 0.0.0.0 xcelleration.info
