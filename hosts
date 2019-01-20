@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -146,10 +146,12 @@
 0.0.0.0 411playz.com
 0.0.0.0 4249938.fls.doubleclick.net
 0.0.0.0 455484361.highrtb.com
+0.0.0.0 45eijvhgj2.com
 0.0.0.0 48-stuff-o.com
 0.0.0.0 4830912.fls.doubleclick.net
 0.0.0.0 48hk2.com
 0.0.0.0 49feqdpw.com
+0.0.0.0 49oa3o49b6.com
 0.0.0.0 4c7og3qcob.com
 0.0.0.0 4ed3a91ef0.smapp.work
 0.0.0.0 4fm6m.com
@@ -1700,6 +1702,7 @@
 0.0.0.0 drake.bestslots4u.com
 0.0.0.0 dreamtryst.com
 0.0.0.0 driveldrop.com
+0.0.0.0 driver-fixer.com
 0.0.0.0 driverxxx.com
 0.0.0.0 dropped-click.com
 0.0.0.0 drosstik.com
@@ -1870,6 +1873,7 @@
 0.0.0.0 everesttech.net
 0.0.0.0 everythingtoknows.com
 0.0.0.0 ewayads.com
+0.0.0.0 exchange.adpiano.com
 0.0.0.0 exchange.bdex.com
 0.0.0.0 excites.stream
 0.0.0.0 exclara-runitor.com
@@ -2948,6 +2952,7 @@
 0.0.0.0 libreape.com
 0.0.0.0 lie2anyone.com
 0.0.0.0 liebegay.com
+0.0.0.0 lifecontext.me
 0.0.0.0 lifestyleadvisor.co
 0.0.0.0 lifestylealive.com
 0.0.0.0 lifestyledailytip.com
@@ -3504,6 +3509,7 @@
 0.0.0.0 newsupdatedir.info
 0.0.0.0 newtab-tv.com
 0.0.0.0 newtabtv.com
+0.0.0.0 newtext.club
 0.0.0.0 newupdate.thegreatfreesystemostocontenting.date
 0.0.0.0 newversionupdate.downloadwatchsport4freeomndemand.trade
 0.0.0.0 newversionupdate.thereadysystemscontentsafeset.download
@@ -4341,6 +4347,7 @@
 0.0.0.0 registernowfast.com
 0.0.0.0 regruhosting.ru
 0.0.0.0 reimburs.co
+0.0.0.0 reinjuretwo.stream
 0.0.0.0 relaxmusic.live
 0.0.0.0 relivantmedia.com
 0.0.0.0 relstemportsin.club
@@ -4535,6 +4542,7 @@
 0.0.0.0 sce-testing.org
 0.0.0.0 scepticarca.stream
 0.0.0.0 schlumpiest.stream
+0.0.0.0 schoolhousedet.com
 0.0.0.0 schoolrun.zone
 0.0.0.0 sciencerecorder.com
 0.0.0.0 scom.bid
@@ -5449,6 +5457,7 @@
 0.0.0.0 towngesture.gdn
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpmr.com
+0.0.0.0 tps.doubleverify.com
 0.0.0.0 tps11001.doubleverify.com
 0.0.0.0 tps11008.doubleverify.com
 0.0.0.0 tps30.doubleverify.com
@@ -5498,6 +5507,7 @@
 0.0.0.0 track.cpapointer.com
 0.0.0.0 track.cqqsf.com
 0.0.0.0 track.datingagencyapp.com
+0.0.0.0 track.dcyphermedia.net
 0.0.0.0 track.detestable-dravite.com
 0.0.0.0 track.dictionary.com
 0.0.0.0 track.discreetproposal.com
@@ -6091,6 +6101,7 @@
 0.0.0.0 w7.jaomjfinalists.review
 0.0.0.0 w88.go.com
 0.0.0.0 wa.appsflyer.com
+0.0.0.0 waethaifxuhbe.com
 0.0.0.0 waking.stream
 0.0.0.0 walgreeni.com
 0.0.0.0 walk-on-date.xyz
@@ -6199,6 +6210,7 @@
 0.0.0.0 windowsrepairprogram.next-page-redirect.com
 0.0.0.0 windowssupport247.club
 0.0.0.0 winklinc.com
+0.0.0.0 winkur.com
 0.0.0.0 winlincensecorrupt172.review
 0.0.0.0 winnersredemption.club
 0.0.0.0 winserrordirect.info.tm
@@ -6519,6 +6531,7 @@
 0.0.0.0 www.deretoso-sira.com
 0.0.0.0 www.deribit.com
 0.0.0.0 www.desdirec.win
+0.0.0.0 www.destinationsteamboat.com
 0.0.0.0 www.detanglex.com
 0.0.0.0 www.dexchangeinc.com
 0.0.0.0 www.deyenesenoc.com
@@ -7010,6 +7023,7 @@
 0.0.0.0 www.myfinance.com
 0.0.0.0 www.myfreecams.com
 0.0.0.0 www.mygetconnectflash.icu
+0.0.0.0 www.mygoldgreatflashlite.icu
 0.0.0.0 www.myinsurehub.com
 0.0.0.0 www.myiyo.com
 0.0.0.0 www.mylatinacrushworld.com
@@ -7536,6 +7550,7 @@
 0.0.0.0 www.viral.site
 0.0.0.0 www.vircheck.club
 0.0.0.0 www.viruscheck.club
+0.0.0.0 www.voicemails1.xyz
 0.0.0.0 www.volumeshotmodificatiorcancleanytime.review
 0.0.0.0 www.volvocars.com
 0.0.0.0 www.votesportstream.icu
@@ -7681,6 +7696,7 @@
 0.0.0.0 www2.mygreatseparateaflash.icu
 0.0.0.0 www2.mysearchexperience.com
 0.0.0.0 www2.mysoftbestaflash.icu
+0.0.0.0 www2.newapplegreatflashlite.icu
 0.0.0.0 www2.newdumplongflash.club
 0.0.0.0 www2.newgoldpcflash.icu
 0.0.0.0 www2.newlonggetflash.club
