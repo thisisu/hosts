@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -180,6 +180,7 @@
 0.0.0.0 5ppfa.bemobtrk.com
 0.0.0.0 5yfi7sy.com
 0.0.0.0 6.adsco.re
+0.0.0.0 6.news-io.com
 0.0.0.0 602.com
 0.0.0.0 6226.xg4ken.com
 0.0.0.0 672067345.peerclicktrk.com
@@ -955,6 +956,7 @@
 0.0.0.0 burningpush.info
 0.0.0.0 burria.info
 0.0.0.0 business.bing.com
+0.0.0.0 butfirecrangu.club
 0.0.0.0 buymymatch.com
 0.0.0.0 buyportmanteau554.club
 0.0.0.0 buyprivatejet.info
@@ -1208,6 +1210,7 @@
 0.0.0.0 click.definitimedia.com
 0.0.0.0 click.dialog.support
 0.0.0.0 click.dtiserv2.com
+0.0.0.0 click.eclk.club
 0.0.0.0 click.ezmob.com
 0.0.0.0 click.fiveppc.com
 0.0.0.0 click.freebonk.club
@@ -3671,6 +3674,7 @@
 0.0.0.0 onlinecatalog.ikea-usa.com
 0.0.0.0 onlineinstallsnetdevelopment.win
 0.0.0.0 onlinephoneinstalls2016.site
+0.0.0.0 onlinesearch.online
 0.0.0.0 onlineshopz2.xyz
 0.0.0.0 onlineshopz4.xyz
 0.0.0.0 onlineultra.com
@@ -4084,6 +4088,7 @@
 0.0.0.0 push.carewomenhealth.com
 0.0.0.0 push.ext.media
 0.0.0.0 push.notifications.vip
+0.0.0.0 push2.notify-service.com
 0.0.0.0 pushame.com
 0.0.0.0 pushamir.com
 0.0.0.0 pushance.com
@@ -4424,6 +4429,7 @@
 0.0.0.0 routethistrafficto.space
 0.0.0.0 routethistrafficto.top
 0.0.0.0 rover.ebay.com
+0.0.0.0 roymonals-prolands.com
 0.0.0.0 rp-srw.net
 0.0.0.0 rp.gwallet.com
 0.0.0.0 rpc-php.trafficfactory.biz
@@ -6216,6 +6222,7 @@
 0.0.0.0 winklinc.com
 0.0.0.0 winkur.com
 0.0.0.0 winlincensecorrupt172.review
+0.0.0.0 winnerkur.com
 0.0.0.0 winnersredemption.club
 0.0.0.0 winserrordirect.info.tm
 0.0.0.0 winsys.ml
