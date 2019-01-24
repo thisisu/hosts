@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -344,6 +344,7 @@
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 addiliate.com
 0.0.0.0 addtoany.com
+0.0.0.0 adenoma.host
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adexc.net
 0.0.0.0 adexten.com
@@ -489,6 +490,7 @@
 0.0.0.0 affrh2022.com
 0.0.0.0 affrh2023.com
 0.0.0.0 affrh2025.com
+0.0.0.0 afftrack.gratisdigital.com
 0.0.0.0 afgr2.com
 0.0.0.0 afgr3.com
 0.0.0.0 afgr4.com
@@ -690,6 +692,7 @@
 0.0.0.0 at.amgdgt.com
 0.0.0.0 atf42.com
 0.0.0.0 athellas.net
+0.0.0.0 atinhenfortwa.info
 0.0.0.0 atlas.etahub.com
 0.0.0.0 atnpx.com
 0.0.0.0 atotum.ru
@@ -740,6 +743,7 @@
 0.0.0.0 b42rracj.com
 0.0.0.0 b8y4ddrvap.com
 0.0.0.0 babes2date.com
+0.0.0.0 babesdem.icu
 0.0.0.0 backing-server-daily.xyz
 0.0.0.0 backpackwithstories.bid
 0.0.0.0 badoinkvr.com
@@ -3412,6 +3416,7 @@
 0.0.0.0 mymedianetnow.com
 0.0.0.0 myofferlinkink.online
 0.0.0.0 myonline-installs-web-dev.win
+0.0.0.0 mypersonalpdf.com
 0.0.0.0 mypersonalzodiac.com
 0.0.0.0 mypharmamart.online
 0.0.0.0 mysagagame.com
@@ -3872,6 +3877,7 @@
 0.0.0.0 piedral-tountain.com
 0.0.0.0 pierceapperal.com
 0.0.0.0 pilatesandyogafitness.com
+0.0.0.0 pilsdesktop.info
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pingrass.website
 0.0.0.0 pippio.com
@@ -6229,6 +6235,7 @@
 0.0.0.0 winserrordirect.info.tm
 0.0.0.0 winsys.ml
 0.0.0.0 wiresurequezer.pro
+0.0.0.0 wishdateyou.com
 0.0.0.0 witchcraftcash.com
 0.0.0.0 withtedar.pw
 0.0.0.0 withtipfecal.stream
