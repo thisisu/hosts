@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -125,6 +125,7 @@
 0.0.0.0 2xphone.com
 0.0.0.0 2z0a4r31.top
 0.0.0.0 309166336.lga1.ampverified.com
+0.0.0.0 31.securefinds2.com
 0.0.0.0 3368642834.pub.ezanga.com
 0.0.0.0 33across.com
 0.0.0.0 354767679.magicriver.pro
@@ -357,6 +358,7 @@
 0.0.0.0 admedit.net
 0.0.0.0 admeridian.com
 0.0.0.0 admin.bunnyfoofoo.app
+0.0.0.0 admin.superbuzz.io
 0.0.0.0 admin.taggy.tech
 0.0.0.0 adn.topstats.cc
 0.0.0.0 adnow.com
@@ -746,6 +748,7 @@
 0.0.0.0 babesdem.icu
 0.0.0.0 backing-server-daily.xyz
 0.0.0.0 backpackwithstories.bid
+0.0.0.0 backspinies.host
 0.0.0.0 badoinkvr.com
 0.0.0.0 badteenspunished.com
 0.0.0.0 baeda.tetracking.com
@@ -1638,6 +1641,7 @@
 0.0.0.0 digitalsmirror.com
 0.0.0.0 digsoftsolutions.com
 0.0.0.0 dikomem.com
+0.0.0.0 dimessing-parker.com
 0.0.0.0 diplomaticsecurityservicelondon.com
 0.0.0.0 diraqi-offastics.com
 0.0.0.0 directionloan.us
@@ -2041,6 +2045,7 @@
 0.0.0.0 firehall.us
 0.0.0.0 fireplayersetup.com
 0.0.0.0 fireplayr.com
+0.0.0.0 fisasinren.club
 0.0.0.0 fishingtip.info
 0.0.0.0 fitnessinf.com
 0.0.0.0 fixerinst.com
@@ -5293,6 +5298,7 @@
 0.0.0.0 t9i0r.bemobtrk.com
 0.0.0.0 taboola.com
 0.0.0.0 tackthisclick.net
+0.0.0.0 tadaeizih.com
 0.0.0.0 tag.adaraanalytics.com
 0.0.0.0 tag.apxlv.com
 0.0.0.0 tag.cogocast.net
@@ -5428,6 +5434,7 @@
 0.0.0.0 time-pick.com
 0.0.0.0 time-to-sex.com
 0.0.0.0 times25.go2affise.com
+0.0.0.0 tingecatalogue.club
 0.0.0.0 tinglechubut.stream
 0.0.0.0 tips.mynewslist.com
 0.0.0.0 tipslz.com
@@ -5520,6 +5527,7 @@
 0.0.0.0 track.brucelead.com
 0.0.0.0 track.cam4tracking.com
 0.0.0.0 track.celtra.com
+0.0.0.0 track.cloakingpokemon.com
 0.0.0.0 track.cloudonestats.com
 0.0.0.0 track.contently.com
 0.0.0.0 track.cpapointer.com
@@ -6298,6 +6306,7 @@
 0.0.0.0 www.12up.com
 0.0.0.0 www.18billion.com
 0.0.0.0 www.1paj4kmp.top
+0.0.0.0 www.1top-deals.com
 0.0.0.0 www.20to10.net
 0.0.0.0 www.247transactions.com
 0.0.0.0 www.2gz3lx6gdf.com
@@ -6860,6 +6869,7 @@
 0.0.0.0 www.imortgageserve.com
 0.0.0.0 www.improvemybrowser.com
 0.0.0.0 www.influ2.com
+0.0.0.0 www.initiatefresh.com
 0.0.0.0 www.instacheaters.com
 0.0.0.0 www.instaforex.com
 0.0.0.0 www.instanthookups.com
