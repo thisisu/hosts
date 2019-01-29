@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -532,6 +532,7 @@
 0.0.0.0 allelocatalyses.stream
 0.0.0.0 allfont.net
 0.0.0.0 allgrannysex.com
+0.0.0.0 alllatesttech.com
 0.0.0.0 allporncasting.com
 0.0.0.0 allstarprize.club
 0.0.0.0 alltheresources.innocraft.cloud
@@ -1226,6 +1227,7 @@
 0.0.0.0 click.inplayable.com
 0.0.0.0 click.jadspro.live
 0.0.0.0 click.jasmin.com
+0.0.0.0 click.lclk.info
 0.0.0.0 click.linksynergy.com
 0.0.0.0 click.livejasmin.com
 0.0.0.0 click.mcrntrk.com
@@ -1335,6 +1337,7 @@
 0.0.0.0 comential-depremix.com
 0.0.0.0 commank.pro
 0.0.0.0 commercialvalue.org
+0.0.0.0 comotions-arryards.com
 0.0.0.0 compare-auto-insurance-now.com
 0.0.0.0 comproliverton.pro
 0.0.0.0 comptugnaw.mobi
@@ -2898,6 +2901,7 @@
 0.0.0.0 kingmoblo.online
 0.0.0.0 kitc.gdn
 0.0.0.0 kitchenremodeling.services
+0.0.0.0 kittens-pictures.com
 0.0.0.0 kjaunt.com
 0.0.0.0 knekt.org
 0.0.0.0 knowyoush.mobi
@@ -4052,6 +4056,7 @@
 0.0.0.0 promos.mcafee.com
 0.0.0.0 promothepassion.com
 0.0.0.0 promotions.betonline.ag
+0.0.0.0 promptly.host
 0.0.0.0 prondates.com
 0.0.0.0 pronlife.men
 0.0.0.0 propccleaner.com
@@ -6005,6 +6010,7 @@
 0.0.0.0 vadovlfirelights.review
 0.0.0.0 vakogid.com
 0.0.0.0 val.looksmart.com
+0.0.0.0 val.runtnc.net
 0.0.0.0 valuedmarket.com
 0.0.0.0 vanityoverdose.com
 0.0.0.0 vasya-trk.info
@@ -6860,6 +6866,7 @@
 0.0.0.0 www.hqtrk.com
 0.0.0.0 www.hsselite.com
 0.0.0.0 www.hubtraffic.com
+0.0.0.0 www.hundesoehne.de
 0.0.0.0 www.hyporn.org
 0.0.0.0 www.identityiq.com
 0.0.0.0 www.iknowthatgirl.com
@@ -7137,6 +7144,7 @@
 0.0.0.0 www.ontargetyoga.com
 0.0.0.0 www.opinionoutpost.com
 0.0.0.0 www.oplecron.win
+0.0.0.0 www.opptmzpops.com
 0.0.0.0 www.oshi.io
 0.0.0.0 www.otgbs.com
 0.0.0.0 www.outdoorlifeexplorer.com
@@ -7218,6 +7226,7 @@
 0.0.0.0 www.propellerads.com
 0.0.0.0 www.ps7894.com
 0.0.0.0 www.puniathetechie.com
+0.0.0.0 www.pureclicks.xyz
 0.0.0.0 www.puretaboo.com
 0.0.0.0 www.pushcrew.com
 0.0.0.0 www.pushingnewforcontentsafeset.review
@@ -7323,6 +7332,7 @@
 0.0.0.0 www.searchprivacy.live
 0.0.0.0 www.searchprivacy.one
 0.0.0.0 www.searchprivacy.today
+0.0.0.0 www.searchsecureprime.co
 0.0.0.0 www.searchsmart.bid
 0.0.0.0 www.searchtuner.com
 0.0.0.0 www.searchype.com
