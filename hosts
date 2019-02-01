@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -24,6 +24,7 @@
 0.0.0.0 0tgs9.bemobtrk.com
 0.0.0.0 0wner24f.top
 0.0.0.0 1-1ads.com
+0.0.0.0 1.mirnews24.com
 0.0.0.0 1.nextyourcontent.com
 0.0.0.0 1.securefinds1.com
 0.0.0.0 100daily.xyz
@@ -661,6 +662,7 @@
 0.0.0.0 aqc.hubxt.com
 0.0.0.0 aranchahc.com
 0.0.0.0 arcadegonetwork.com
+0.0.0.0 areflexia.us
 0.0.0.0 arenubeforeign.club
 0.0.0.0 ariocroft.com
 0.0.0.0 aritzal.com
@@ -1608,6 +1610,7 @@
 0.0.0.0 desktop.push-alert.email
 0.0.0.0 desktopaplication.info
 0.0.0.0 desktoping.info
+0.0.0.0 desktopkrepair.info
 0.0.0.0 desktopsofting.info
 0.0.0.0 desktopsofts.info
 0.0.0.0 desktopstools.info
@@ -1911,6 +1914,8 @@
 0.0.0.0 ext.searchencrypt.com
 0.0.0.0 extend-battery-life.com
 0.0.0.0 extramoneyinyourwa.wixsite.com
+0.0.0.0 extraoffers.space
+0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 exts77apk.com
 0.0.0.0 ezanga.com
 0.0.0.0 eztrck.com
@@ -2079,6 +2084,7 @@
 0.0.0.0 flightsearchapp.dl.myway.com
 0.0.0.0 flirt-and-sex.com
 0.0.0.0 flirt4free.com
+0.0.0.0 flirtandmeeting.info
 0.0.0.0 flitted.stream
 0.0.0.0 florabac.com
 0.0.0.0 flotwered-essories.com
@@ -2546,6 +2552,7 @@
 0.0.0.0 homepros.zone
 0.0.0.0 homeroofing.deals
 0.0.0.0 homesecurity.zone
+0.0.0.0 homesmagic.com
 0.0.0.0 homoplastic.pw
 0.0.0.0 homopterous.pw
 0.0.0.0 hookuphub.co
@@ -2956,6 +2963,7 @@
 0.0.0.0 legalsoft.thebestcenteronnetcontents.download
 0.0.0.0 legitmp4downloader.xyz
 0.0.0.0 leguinge.info
+0.0.0.0 lehanusepardo.info
 0.0.0.0 leikin.icu
 0.0.0.0 lekhands.info
 0.0.0.0 leowirwerwe.info
@@ -3735,6 +3743,7 @@
 0.0.0.0 ourdailysweepstakes.com
 0.0.0.0 ourriow31.club
 0.0.0.0 ourselfone.stream
+0.0.0.0 outasked.website
 0.0.0.0 outblush.stream
 0.0.0.0 outbrain.com
 0.0.0.0 outletlists.com
@@ -3842,6 +3851,7 @@
 0.0.0.0 pctonics.com
 0.0.0.0 pcupgrade.thefinishedandreadyforcontents.host
 0.0.0.0 pd.sharethis.com
+0.0.0.0 pddzo.lovechats.org
 0.0.0.0 pdfconverter.pro
 0.0.0.0 peak-adx.com
 0.0.0.0 peakbbw.com
@@ -3905,6 +3915,7 @@
 0.0.0.0 pl14409393.puserving.com
 0.0.0.0 placehold.it
 0.0.0.0 planandmore.com
+0.0.0.0 planetdeliveryios.com
 0.0.0.0 plangadget.com
 0.0.0.0 planyournight.link
 0.0.0.0 plarium.com
@@ -5229,6 +5240,7 @@
 0.0.0.0 sweeps.aarp.org
 0.0.0.0 sweepstakesgroup.com
 0.0.0.0 sweetdaisyhaze.com
+0.0.0.0 sweetgirlsparty.com
 0.0.0.0 swiftfling.com
 0.0.0.0 swtkes.com
 0.0.0.0 sx.leadzutw.com
@@ -5264,6 +5276,7 @@
 0.0.0.0 sz0m.2yd.xyz
 0.0.0.0 sza.bi
 0.0.0.0 szgvv-group.com
+0.0.0.0 t-r-f-k.com
 0.0.0.0 t.1p1eqpotato.com
 0.0.0.0 t.8p3xn5fg.science
 0.0.0.0 t.appsflyer.com
@@ -6653,6 +6666,7 @@
 0.0.0.0 www.explorereward.com
 0.0.0.0 www.expresvpn-private-analytics.net
 0.0.0.0 www.extclicks.info
+0.0.0.0 www.extraoffers.xyz
 0.0.0.0 www.extreme3d.games
 0.0.0.0 www.extremefreegames.com
 0.0.0.0 www.extremehentaixxx.com
@@ -7246,6 +7260,7 @@
 0.0.0.0 www.quicklaneservicespecials.com
 0.0.0.0 www.qwtuviguywtza.bid
 0.0.0.0 www.r18.com
+0.0.0.0 www.radioairconditioner.website
 0.0.0.0 www.radiorage.com
 0.0.0.0 www.ragingbullcampaign.com
 0.0.0.0 www.ragingbullcasino.com
@@ -7868,6 +7883,7 @@
 0.0.0.0 xml.rtb2dmg.net
 0.0.0.0 xml.rxfclk3.com
 0.0.0.0 xml.seodollars.com
+0.0.0.0 xml.serverhost1.com
 0.0.0.0 xml.showcasead.com
 0.0.0.0 xml.sodamedia.co
 0.0.0.0 xml.techdoor.com
