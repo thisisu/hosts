@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -1163,6 +1163,7 @@
 0.0.0.0 chininsurance.ru
 0.0.0.0 chn.easymarkets.com
 0.0.0.0 choochoul.com
+0.0.0.0 choonotheen.com
 0.0.0.0 chopr.net
 0.0.0.0 chqgbeoy1114.host
 0.0.0.0 chrantary-vocking.com
@@ -2414,6 +2415,7 @@
 0.0.0.0 greatzip.com
 0.0.0.0 greekhistorysearch.site
 0.0.0.0 green.erne.co
+0.0.0.0 grignulr.com
 0.0.0.0 gritting.us
 0.0.0.0 grizzlygamers.com
 0.0.0.0 grjxr.randysnaps.com
@@ -3623,6 +3625,7 @@
 0.0.0.0 nsandreskethep.club
 0.0.0.0 nsfwvines.com
 0.0.0.0 nsluding.com
+0.0.0.0 ntdload.com
 0.0.0.0 ntf.newtube.life
 0.0.0.0 ntsevolandsery.club
 0.0.0.0 nu.mltdmrh.com
@@ -3699,6 +3702,7 @@
 0.0.0.0 online.pc-games.org
 0.0.0.0 onlineblogsite.xyz
 0.0.0.0 onlinecatalog.ikea-usa.com
+0.0.0.0 onlinegrow1.xyz
 0.0.0.0 onlineinstallsnetdevelopment.win
 0.0.0.0 onlinephoneinstalls2016.site
 0.0.0.0 onlinesearch.online
@@ -4110,6 +4114,7 @@
 0.0.0.0 pubmatic-match.dotomi.com
 0.0.0.0 puhtml.com
 0.0.0.0 pukoreh.com
+0.0.0.0 pulsated.pw
 0.0.0.0 pumptheprofits.mobi
 0.0.0.0 puratos.com.ar
 0.0.0.0 pureleisurefun.com
@@ -4836,6 +4841,7 @@
 0.0.0.0 server4.milkandchocolait.info
 0.0.0.0 server4.misslittlegranny.info
 0.0.0.0 server4.moneyindabank.info
+0.0.0.0 server4.myresoulutions.info
 0.0.0.0 server4.nottodayhenny.info
 0.0.0.0 server4.offtwomarket.info
 0.0.0.0 server4.overplanningkills.co
@@ -5177,6 +5183,7 @@
 0.0.0.0 stepsiblingscaught.com
 0.0.0.0 sticans.pro
 0.0.0.0 stiflexichausseli.info
+0.0.0.0 stixeepou.com
 0.0.0.0 stoagergu.com
 0.0.0.0 stodsounsoo.com
 0.0.0.0 stonecalcom.com
@@ -6256,6 +6263,7 @@
 0.0.0.0 win-advisor.net
 0.0.0.0 win-win-win-service.ochalte.ru
 0.0.0.0 win.adpiano.com
+0.0.0.0 windie-metain.com
 0.0.0.0 window-server-error-ayz584yt.azurewebsites.net
 0.0.0.0 window-server-error-ud800tz.azurewebsites.net
 0.0.0.0 windowchannel.bid
