@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -61,6 +61,7 @@
 0.0.0.0 1866websupport.com
 0.0.0.0 18yoga.com
 0.0.0.0 1974461532.rsc.cdn77.org
+0.0.0.0 1982739473.rsc.cdn77.org
 0.0.0.0 1d5e04ea053.traffic-c.com
 0.0.0.0 1dmp.co
 0.0.0.0 1ea1sley.com
@@ -349,6 +350,7 @@
 0.0.0.0 adenoma.host
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adexc.net
+0.0.0.0 adexchangegate.com
 0.0.0.0 adexten.com
 0.0.0.0 adf.ly
 0.0.0.0 adhitzads.com
@@ -1285,6 +1287,7 @@
 0.0.0.0 clk.logsession.com
 0.0.0.0 clk.verblife-2.co
 0.0.0.0 clk.verblife-3.co
+0.0.0.0 clk.verblife-4.co
 0.0.0.0 clkn.adzopa.com
 0.0.0.0 clkn.giant-savings.co
 0.0.0.0 clkn.zipitdeal.com
@@ -1718,6 +1721,7 @@
 0.0.0.0 download.televisionfanatic.com
 0.0.0.0 downloadcct.com
 0.0.0.0 downloads.ragingbullcasino.com
+0.0.0.0 dpdbrp.perfonsrv.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dq99e1u0hhydr.cloudfront.net
 0.0.0.0 dqn.bpzvezdqmfauvette.review
@@ -4115,6 +4119,7 @@
 0.0.0.0 puhtml.com
 0.0.0.0 pukoreh.com
 0.0.0.0 pulsated.pw
+0.0.0.0 pulsojet.pw
 0.0.0.0 pumptheprofits.mobi
 0.0.0.0 puratos.com.ar
 0.0.0.0 pureleisurefun.com
@@ -4215,6 +4220,7 @@
 0.0.0.0 qileyn.com
 0.0.0.0 qlamy.com
 0.0.0.0 qlx.pw
+0.0.0.0 qpxrg.com
 0.0.0.0 qr9ln.bemobtrk.com
 0.0.0.0 qra0ct.top
 0.0.0.0 qrlsx.com
@@ -4460,6 +4466,7 @@
 0.0.0.0 rolledsteelcuts.com
 0.0.0.0 roman.sjv.io
 0.0.0.0 romancetale.com
+0.0.0.0 ronrecheclo.pro
 0.0.0.0 roomimg.stream.highwebmedia.com
 0.0.0.0 rosetheet.com
 0.0.0.0 rouladealacrity.stream
@@ -5246,6 +5253,7 @@
 0.0.0.0 sutimesi.pw
 0.0.0.0 svd.ubpdqbeech.download
 0.0.0.0 svjat0rx99.com
+0.0.0.0 svkrg.com
 0.0.0.0 sw.looksmart.com
 0.0.0.0 swagbucks.7eer.net
 0.0.0.0 swallsix.info
@@ -5470,12 +5478,14 @@
 0.0.0.0 tips.mynewslist.com
 0.0.0.0 tipslz.com
 0.0.0.0 titan.infra.systems
+0.0.0.0 tittalaccalrop.info
 0.0.0.0 tiwinspires.com
 0.0.0.0 tk.immereeako.info
 0.0.0.0 tk.kargo.com
 0.0.0.0 tkhmr.peakonsrv.com
 0.0.0.0 tl813.com
 0.0.0.0 tlkdotbrickiest.xyz
+0.0.0.0 tmstrack.com
 0.0.0.0 tmtrck.com
 0.0.0.0 tnt.weareoffers.com
 0.0.0.0 tochyhrybat.review
@@ -5609,6 +5619,7 @@
 0.0.0.0 track.reachsrv.com
 0.0.0.0 track.rockyourworld.rocks
 0.0.0.0 track.rqqft.com
+0.0.0.0 track.rtzqs.com
 0.0.0.0 track.sazph.com
 0.0.0.0 track.special-offers.online
 0.0.0.0 track.tcppu.com
@@ -6210,6 +6221,7 @@
 0.0.0.0 webmine.pro
 0.0.0.0 weboffersonline.info
 0.0.0.0 webpushcloud.info
+0.0.0.0 webscanalert.xyz
 0.0.0.0 websearchlabs.com
 0.0.0.0 website1.sitear.xyz
 0.0.0.0 websnewsdate.com
@@ -7008,6 +7020,7 @@
 0.0.0.0 www.loveaholics.com
 0.0.0.0 www.loversgape.com
 0.0.0.0 www.lskxn9.top
+0.0.0.0 www.ltzqr.com
 0.0.0.0 www.lucky-prizes.info
 0.0.0.0 www.luckywinner.info
 0.0.0.0 www.luiuawf92w.com
