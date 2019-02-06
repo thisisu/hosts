@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -43,6 +43,7 @@
 0.0.0.0 12updatenew.thecentralwebsiteforupdatesafe.icu
 0.0.0.0 12updatenew.themainplacetogetgoodcontentnow.trade
 0.0.0.0 12updatenew.yoursummertime-greatcontent.download
+0.0.0.0 1398557112.rsc.cdn77.org
 0.0.0.0 14119276be0852.com
 0.0.0.0 151e47c1929d55bb71.walmartcard.top
 0.0.0.0 152637fb45cb928b74.beautyfitnessandhealth.com
@@ -644,6 +645,7 @@
 0.0.0.0 applicationfun.com
 0.0.0.0 appnexus-partners.tremorhub.com
 0.0.0.0 appofferdownloadstore.com
+0.0.0.0 appotintment.host
 0.0.0.0 appping-140507.appspot.com
 0.0.0.0 approachworld.com
 0.0.0.0 approachx.go2affise.com
@@ -769,6 +771,7 @@
 0.0.0.0 barbitinnovans.info
 0.0.0.0 bariebenefit.com
 0.0.0.0 bbb.7bmyka.link
+0.0.0.0 bbq-book.com
 0.0.0.0 bbqtrk.com
 0.0.0.0 bc-cle.springserve.net
 0.0.0.0 bc.vc
@@ -874,6 +877,7 @@
 0.0.0.0 bixhq13.club
 0.0.0.0 biz-eu.top
 0.0.0.0 bizrate.com
+0.0.0.0 bjtrck.com
 0.0.0.0 bjybqqtzcduvetyns.review
 0.0.0.0 bk4p0ne.com
 0.0.0.0 black4pussy.com
@@ -2152,6 +2156,7 @@
 0.0.0.0 freefuckbuddytonight.com
 0.0.0.0 freegroup.site
 0.0.0.0 freemmo2017.com
+0.0.0.0 freepcantivirous.bz
 0.0.0.0 freepornleg.com
 0.0.0.0 freepornosexy.com
 0.0.0.0 freerpgonline.net
@@ -2231,6 +2236,7 @@
 0.0.0.0 gamebassadors.go2cloud.org
 0.0.0.0 gameofads.com
 0.0.0.0 gameofporn.net
+0.0.0.0 gameonline34.club
 0.0.0.0 gamerfloor.com
 0.0.0.0 games.bitcoin.com
 0.0.0.0 games.revealingquestions.com
@@ -2497,6 +2503,7 @@
 0.0.0.0 heapanalytics.com
 0.0.0.0 hearfind.com
 0.0.0.0 heaterniecewrestlerfalling-out.tk
+0.0.0.0 hecherthepar.pro
 0.0.0.0 heelo.gdn
 0.0.0.0 hehraybryciyls.com
 0.0.0.0 hellcategy.info
@@ -4227,6 +4234,7 @@
 0.0.0.0 quadency.com
 0.0.0.0 quadency.go2cloud.org
 0.0.0.0 quadrinhoseroticos.net
+0.0.0.0 quantify.pw
 0.0.0.0 quantil.jsdelivr.net
 0.0.0.0 qubzz.it8omnzi.xlxfc.today
 0.0.0.0 queuecosm.bid
@@ -4397,6 +4405,7 @@
 0.0.0.0 register.koggames.com
 0.0.0.0 registernowfast.com
 0.0.0.0 regruhosting.ru
+0.0.0.0 reimageee.info
 0.0.0.0 reimburs.co
 0.0.0.0 reinjuretwo.stream
 0.0.0.0 relaxmusic.live
@@ -4618,6 +4627,7 @@
 0.0.0.0 search-singles-online.com
 0.0.0.0 search.alphashoppers.co
 0.0.0.0 search.anygator.com
+0.0.0.0 search.awesomenewtabs.com
 0.0.0.0 search.medianewpagesearch.com
 0.0.0.0 search.mystartabsearch.com
 0.0.0.0 search.newtab-tvsearch.com
@@ -4815,6 +4825,7 @@
 0.0.0.0 server4.directbymail.info
 0.0.0.0 server4.distilledbeer.info
 0.0.0.0 server4.economyinsights.info
+0.0.0.0 server4.fixtureperfect.info
 0.0.0.0 server4.fleecebewithyou.info
 0.0.0.0 server4.flowerpuffgirls.info
 0.0.0.0 server4.geotectonically.com
@@ -5547,6 +5558,7 @@
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 track-victoriadates.com
 0.0.0.0 track.52zxzh.com
+0.0.0.0 track.abularasa.club
 0.0.0.0 track.accudata-stats.com
 0.0.0.0 track.adclickbyte.com
 0.0.0.0 track.addevent.com
@@ -6440,6 +6452,7 @@
 0.0.0.0 www.audienceinspector.com
 0.0.0.0 www.audiobooks.com
 0.0.0.0 www.avantlink.com
+0.0.0.0 www.avedepresa.press
 0.0.0.0 www.avefyjulko.bid
 0.0.0.0 www.avonlineshop.com
 0.0.0.0 www.awkwardnews.com
@@ -6533,6 +6546,7 @@
 0.0.0.0 www.cleanlaboratorypresent.com
 0.0.0.0 www.cleanmixflash.win
 0.0.0.0 www.clearsourcecart.com
+0.0.0.0 www.clickdynamics.net
 0.0.0.0 www.clicken.us
 0.0.0.0 www.clickfunnel.com
 0.0.0.0 www.clickfunnels.com
@@ -7451,6 +7465,7 @@
 0.0.0.0 www.springswipe.com
 0.0.0.0 www.srchmgrk.com
 0.0.0.0 www.srviral.com
+0.0.0.0 www.starcooking.club
 0.0.0.0 www.starfurniture.com
 0.0.0.0 www.starstable.com
 0.0.0.0 www.statcounter.com
