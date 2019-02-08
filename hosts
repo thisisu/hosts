@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -912,6 +912,7 @@
 0.0.0.0 boob.ro
 0.0.0.0 boobyliscious.com
 0.0.0.0 bookbudd.com
+0.0.0.0 bookmyplumbernow.us
 0.0.0.0 boondoggling.stream
 0.0.0.0 boos.leadloans.co.uk
 0.0.0.0 boozier.stream
@@ -2057,6 +2058,7 @@
 0.0.0.0 findhousingbenefits.com
 0.0.0.0 findiosearch.com
 0.0.0.0 findiosearch.net
+0.0.0.0 findmyroute.co
 0.0.0.0 findnaughtybabesonline.com
 0.0.0.0 fingahvf.top
 0.0.0.0 finglory-bunigeles.com
@@ -2231,6 +2233,7 @@
 0.0.0.0 galleryn0.jsmstatic.com
 0.0.0.0 galleryn1.jsmstatic.com
 0.0.0.0 galleryn2.jsmstatic.com
+0.0.0.0 gamdimanameri-hodtkrtih.ml
 0.0.0.0 game.bootycallsgame.com
 0.0.0.0 game4pov.com
 0.0.0.0 gamebassadors.go2cloud.org
@@ -3501,6 +3504,7 @@
 0.0.0.0 navigateto.net
 0.0.0.0 navigatetrade.com
 0.0.0.0 nbabros.com
+0.0.0.0 ncommerce3.shop
 0.0.0.0 ncontentdelivery.info
 0.0.0.0 ndirect.org
 0.0.0.0 needluv.com
@@ -8071,6 +8075,7 @@
 0.0.0.0 zninsurance.xyz
 0.0.0.0 znnabrxnotlm.com
 0.0.0.0 znq06track.com
+0.0.0.0 zocor.host
 0.0.0.0 zonebit.us
 0.0.0.0 zonegem.com
 0.0.0.0 zonog.mobilesatisfy.com
