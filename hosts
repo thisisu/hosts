@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -789,6 +789,7 @@
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 beacon.krxd.net
 0.0.0.0 beacon.tru.am
+0.0.0.0 beamgears.com
 0.0.0.0 beastbuzz.com
 0.0.0.0 beautifulgirls.men
 0.0.0.0 beautifulwomenaround.online
@@ -1786,6 +1787,7 @@
 0.0.0.0 e5a87pq.com
 0.0.0.0 e7is2u38.top
 0.0.0.0 e8a31c08d0faff38f8bfa57c75d80828.awentw.com
+0.0.0.0 e9geolgzk6.com
 0.0.0.0 earprunerstemvisor.tk
 0.0.0.0 easdalebackflow.com
 0.0.0.0 easilyverify.com
@@ -2394,6 +2396,7 @@
 0.0.0.0 gogamego.thewhizproducts.com
 0.0.0.0 goldenmachines.trade
 0.0.0.0 goldenyearsnetwork.com
+0.0.0.0 golf.com
 0.0.0.0 golinkredirect.com
 0.0.0.0 gomtrack.com
 0.0.0.0 goniometer.pw
@@ -2700,6 +2703,7 @@
 0.0.0.0 imprnjmp.taboola.com
 0.0.0.0 imtrack.site
 0.0.0.0 imtracking.xyz
+0.0.0.0 imwinnerkur.com
 0.0.0.0 in.getclicky.com
 0.0.0.0 in.source-outflow.com
 0.0.0.0 in.tubecorporate.com
@@ -3127,6 +3131,7 @@
 0.0.0.0 lyr.pubmatic.com
 0.0.0.0 lytnews.com
 0.0.0.0 lyuoaxruaqdo.com
+0.0.0.0 m-in.gearbest.com
 0.0.0.0 m.1cmwcz4g32.com
 0.0.0.0 m.addthisedge.com
 0.0.0.0 m.adnxs.com
@@ -3941,6 +3946,7 @@
 0.0.0.0 pix.rectifygame.com
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 pixel.ad.mlnadvertising.com
+0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.pmmapads.com
 0.0.0.0 pixel.rubiconproject.com
@@ -4151,6 +4157,7 @@
 0.0.0.0 push-notification.top
 0.0.0.0 push-notifications.top
 0.0.0.0 push-signals.online
+0.0.0.0 push-time.com
 0.0.0.0 push.carewomenhealth.com
 0.0.0.0 push.ext.media
 0.0.0.0 push.notifications.vip
@@ -4445,6 +4452,7 @@
 0.0.0.0 restoring.club
 0.0.0.0 result-oriented-search.xyz
 0.0.0.0 results.certifyads.com
+0.0.0.0 results.userverifier.com
 0.0.0.0 retargetcore.com
 0.0.0.0 retiral.stream
 0.0.0.0 retirementhappiness.info
@@ -4568,6 +4576,7 @@
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.dcbap.com
 0.0.0.0 s.komoona.com
+0.0.0.0 s.moatads.com
 0.0.0.0 s.nitropay.com
 0.0.0.0 s.pmddby.com
 0.0.0.0 s.pubmine.com
@@ -4849,6 +4858,7 @@
 0.0.0.0 server4.goinggetsrough.info
 0.0.0.0 server4.handcoughs.info
 0.0.0.0 server4.healthyessential.info
+0.0.0.0 server4.holidayrushsale.info
 0.0.0.0 server4.hutdawgs.info
 0.0.0.0 server4.inagentleway.info
 0.0.0.0 server4.instagrowfast.info
@@ -5895,6 +5905,7 @@
 0.0.0.0 twinktube.com
 0.0.0.0 txycbaimitable.xyz
 0.0.0.0 tyjnuomvpyt.com
+0.0.0.0 typacodosof.info
 0.0.0.0 typerse.com
 0.0.0.0 tz6aup99.top
 0.0.0.0 u.rtclx.com
@@ -6022,6 +6033,8 @@
 0.0.0.0 us.shein.com
 0.0.0.0 us.traackinst.com
 0.0.0.0 us.tranquilization493kj.icu
+0.0.0.0 us.ubx20drad07.xyz
+0.0.0.0 us.ww-clickzredirects1adsrus.com
 0.0.0.0 us24.zopim.com
 0.0.0.0 us38.zopim.com
 0.0.0.0 usa.aladdin-iulius.com
@@ -6850,6 +6863,7 @@
 0.0.0.0 www.getlnk11.com
 0.0.0.0 www.getlnk6.com
 0.0.0.0 www.getlnk7.com
+0.0.0.0 www.getlnk8.com
 0.0.0.0 www.getlnk9.com
 0.0.0.0 www.getpaidto.com
 0.0.0.0 www.getpoliticalnews.com
@@ -7894,6 +7908,7 @@
 0.0.0.0 xhamsterlive.com
 0.0.0.0 xhamsterpremium.com
 0.0.0.0 xl-trk.com
+0.0.0.0 xml-g.adservme.com
 0.0.0.0 xml.active8ads.com
 0.0.0.0 xml.activerevenue.com
 0.0.0.0 xml.adcy.net
@@ -8099,6 +8114,7 @@
 0.0.0.0 zonebit.us
 0.0.0.0 zonegem.com
 0.0.0.0 zonog.mobilesatisfy.com
+0.0.0.0 zoologist.icu
 0.0.0.0 zoophone.club
 0.0.0.0 zrybzbapantomimes.download
 0.0.0.0 ztrack.pw
