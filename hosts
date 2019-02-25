@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41 & 159.89.226.192
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -1136,6 +1136,7 @@
 0.0.0.0 ceugjbwb.com
 0.0.0.0 cex.io
 0.0.0.0 cgg.peakexc.com
+0.0.0.0 cgociipdf.com
 0.0.0.0 ch1jw.entropypwlixlh.download
 0.0.0.0 chainsaws4less.com
 0.0.0.0 chairgaubsy.com
@@ -5037,6 +5038,7 @@
 0.0.0.0 slinie.aielber.com
 0.0.0.0 sloi1.com
 0.0.0.0 slotbitches.com
+0.0.0.0 slughtessing.info
 0.0.0.0 slutindex.com
 0.0.0.0 sluts4you.net
 0.0.0.0 slutwifetraining.com
@@ -5232,6 +5234,7 @@
 0.0.0.0 stoagergu.com
 0.0.0.0 stodsounsoo.com
 0.0.0.0 stonecalcom.com
+0.0.0.0 stonies-game.upjers.com
 0.0.0.0 stoperectiledysfunction.online
 0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 store.labilize.bid
@@ -5662,6 +5665,7 @@
 0.0.0.0 track.rqqft.com
 0.0.0.0 track.rtzqs.com
 0.0.0.0 track.sazph.com
+0.0.0.0 track.shigella.host
 0.0.0.0 track.special-offers.online
 0.0.0.0 track.special-promotions.online
 0.0.0.0 track.tcppu.com
@@ -6851,6 +6855,7 @@
 0.0.0.0 www.get-express-vpn.com
 0.0.0.0 www.get-hotspot-shield.com
 0.0.0.0 www.get-paid.com
+0.0.0.0 www.getandroidhelps.cf
 0.0.0.0 www.getbrandnewcontentnowsetup.win
 0.0.0.0 www.getcanadagreen.com
 0.0.0.0 www.getdevicehelp.cf
@@ -7979,6 +7984,7 @@
 0.0.0.0 xml.vespymedia.com
 0.0.0.0 xml.vokut.com
 0.0.0.0 xml.vrtzcontextualads.com
+0.0.0.0 xml.xbidflare.com
 0.0.0.0 xml.xmladsystem.com
 0.0.0.0 xml.xmlwizard.com
 0.0.0.0 xml.yepmedia.com
