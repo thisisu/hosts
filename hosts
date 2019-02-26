@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 & 68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41 & 159.89.226.192
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 &  68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41 & 159.89.226.192 & 134.209.73.120
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -2261,6 +2261,7 @@
 0.0.0.0 gamessearch.co
 0.0.0.0 gamez1a.com
 0.0.0.0 garcinia-combogia-weightloss.online
+0.0.0.0 gardentales.live
 0.0.0.0 garrogy.info
 0.0.0.0 gatefrwrd.club
 0.0.0.0 gatmog.com
@@ -3541,6 +3542,7 @@
 0.0.0.0 network-corrupted20856.tk
 0.0.0.0 network-corrupted20915.tk
 0.0.0.0 network-system-status.com
+0.0.0.0 network.fetchit.site
 0.0.0.0 network.nutaku.net
 0.0.0.0 neuroweekly.com
 0.0.0.0 new-api.com
@@ -3836,6 +3838,7 @@
 0.0.0.0 paederasty.host
 0.0.0.0 paediatrist.host
 0.0.0.0 pagandom.website
+0.0.0.0 page-redirect.com
 0.0.0.0 page.geniusdisplay.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pageswealth.com
@@ -4436,6 +4439,7 @@
 0.0.0.0 reimageee.info
 0.0.0.0 reimburs.co
 0.0.0.0 reinjuretwo.stream
+0.0.0.0 rejacket.xyz
 0.0.0.0 relaxmusic.live
 0.0.0.0 relivantmedia.com
 0.0.0.0 relstemportsin.club
@@ -4681,6 +4685,7 @@
 0.0.0.0 searchencrypt.com
 0.0.0.0 searchencrypt.navigateto.net
 0.0.0.0 searchfeed.seccint.com
+0.0.0.0 searchforweather.com
 0.0.0.0 searchfunctions.com
 0.0.0.0 searchmulty.com
 0.0.0.0 searchprivacy.in.net
@@ -5595,6 +5600,7 @@
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 track-victoriadates.com
 0.0.0.0 track.52zxzh.com
+0.0.0.0 track.7erebor.host
 0.0.0.0 track.abularasa.club
 0.0.0.0 track.accudata-stats.com
 0.0.0.0 track.adclickbyte.com
@@ -6037,6 +6043,7 @@
 0.0.0.0 us.fdplttrk.com
 0.0.0.0 us.finditquick.online
 0.0.0.0 us.imgsrvc.com
+0.0.0.0 us.more26keeper09.xyz
 0.0.0.0 us.r1us09af.xyz
 0.0.0.0 us.r2us09af.xyz
 0.0.0.0 us.romwe.com
@@ -6672,6 +6679,7 @@
 0.0.0.0 www.detanglex.com
 0.0.0.0 www.dexchangeinc.com
 0.0.0.0 www.deyenesenoc.com
+0.0.0.0 www.dietinsiderdaily.com
 0.0.0.0 www.digitalprivacyalert.org
 0.0.0.0 www.digitaluseguide.com
 0.0.0.0 www.directflash.bid
@@ -7024,6 +7032,7 @@
 0.0.0.0 www.kaokabgames.com
 0.0.0.0 www.katestube.live
 0.0.0.0 www.kbb.com
+0.0.0.0 www.ketodrive-diet.com
 0.0.0.0 www.khanwars.com
 0.0.0.0 www.kiropenibelero.com
 0.0.0.0 www.kliktrek.com
@@ -8129,6 +8138,7 @@
 0.0.0.0 zonog.mobilesatisfy.com
 0.0.0.0 zoologist.icu
 0.0.0.0 zoophone.club
+0.0.0.0 zpolivtjrhjquo.com
 0.0.0.0 zrybzbapantomimes.download
 0.0.0.0 ztrack.pw
 0.0.0.0 ztracker.ml
