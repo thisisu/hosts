@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 &  68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41 & 159.89.226.192 & 134.209.73.120
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 &  68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41 & 159.89.226.192 & 134.209.73.120 & 178.128.71.197 & 68.183.29.62
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
@@ -582,6 +582,7 @@
 0.0.0.0 anontop.com
 0.0.0.0 antenna-us.ayads.co
 0.0.0.0 antistrophebail.com
+0.0.0.0 antivirscanner.bz
 0.0.0.0 anura.io
 0.0.0.0 anx.mindspark.com
 0.0.0.0 anx.mywebsearch.com
@@ -934,6 +935,7 @@
 0.0.0.0 bqqtsgbwcsquidded.review
 0.0.0.0 brackens.stream
 0.0.0.0 brainwashedteens.com
+0.0.0.0 brainyfresh.com
 0.0.0.0 brainyquizfun.com
 0.0.0.0 bravo-dog.com
 0.0.0.0 bravojoy.com
@@ -1365,6 +1367,7 @@
 0.0.0.0 computer-83xg3.stream
 0.0.0.0 computer-sr44.stream
 0.0.0.0 computerazure.online
+0.0.0.0 computerscanner.bz
 0.0.0.0 comsss-56.com
 0.0.0.0 conary-jeranced.com
 0.0.0.0 conceau.co
@@ -2753,6 +2756,7 @@
 0.0.0.0 install.cryptoverto.com
 0.0.0.0 install.easy-pdf.com
 0.0.0.0 install.funkystreams.com
+0.0.0.0 install.game-jungle.com
 0.0.0.0 install.gamez4us.com
 0.0.0.0 install.get-maps.com
 0.0.0.0 install.getsportscore.com
@@ -2874,6 +2878,7 @@
 0.0.0.0 joking.stream
 0.0.0.0 joredi.com
 0.0.0.0 josterrenovmy.com
+0.0.0.0 journalate.com
 0.0.0.0 joybang.co.kr
 0.0.0.0 joygeeks.com
 0.0.0.0 jpqmviofsf.com
@@ -2917,6 +2922,7 @@
 0.0.0.0 jzip.online
 0.0.0.0 k0lx1.bemobtrk.com
 0.0.0.0 k1.getexten.com
+0.0.0.0 k1.justmineit.com
 0.0.0.0 k1.mobileadsserver.com
 0.0.0.0 k26fe9xhuzm.com
 0.0.0.0 k4hb.fedqmusnowfield.review
@@ -3467,6 +3473,7 @@
 0.0.0.0 myfreeonline.site
 0.0.0.0 myhithub.com
 0.0.0.0 mykrazygames.com
+0.0.0.0 mymapstab.com
 0.0.0.0 mymedianetnow.com
 0.0.0.0 myofferlinkink.online
 0.0.0.0 myonline-installs-web-dev.win
@@ -4623,6 +4630,7 @@
 0.0.0.0 santaantiar.stream
 0.0.0.0 sashoff.com
 0.0.0.0 saulbass.tv
+0.0.0.0 saveseparatedeal-theclicks.icu
 0.0.0.0 savingmoneycard.com
 0.0.0.0 savingpedia.com
 0.0.0.0 savvy.search.com
@@ -5712,6 +5720,7 @@
 0.0.0.0 tracker.ero-advertising.com
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.x-plarium.com
+0.0.0.0 tracker125-1599295647.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-informa-fast.online
 0.0.0.0 tracking-source.net
 0.0.0.0 tracking.adapp2media.com
@@ -6545,6 +6554,7 @@
 0.0.0.0 www.bitcoininfomation.info
 0.0.0.0 www.bitcoinpenguin.com
 0.0.0.0 www.bitstarz.com
+0.0.0.0 www.biz2credit.com
 0.0.0.0 www.bluechew.com
 0.0.0.0 www.bluecruisebooking.com
 0.0.0.0 www.bnserving.com
@@ -6694,6 +6704,7 @@
 0.0.0.0 www.dodltypeaflash.icu
 0.0.0.0 www.dogefaucet.co
 0.0.0.0 www.dogeminers.com
+0.0.0.0 www.dogsweb.website
 0.0.0.0 www.domainanmegenerator4contentcheckup2convertor.date
 0.0.0.0 www.domainbidtradeextensiontodayaddmore.win
 0.0.0.0 www.domakefastflash.icu
