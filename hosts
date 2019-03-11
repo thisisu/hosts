@@ -3,6 +3,7 @@
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
 # Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 &  68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41 & 159.89.226.192 & 134.209.73.120 & 178.128.71.197 & 68.183.29.62
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
+# Funny: http://daxab.com/player/js/fuckadblock.min.js
 0.0.0.0 0.geniusdisplay.com
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 000tracking.com
@@ -181,6 +182,7 @@
 0.0.0.0 5finder.com
 0.0.0.0 5gmale.com
 0.0.0.0 5ky6k.2587813.com
+0.0.0.0 5nt1gx7o57.com
 0.0.0.0 5ppfa.bemobtrk.com
 0.0.0.0 5yfi7sy.com
 0.0.0.0 6.adsco.re
@@ -2964,6 +2966,7 @@
 0.0.0.0 kunle.ga
 0.0.0.0 kurlichan.com
 0.0.0.0 kurwinner.com
+0.0.0.0 kvdjcnerhxzb.com
 0.0.0.0 kvvqq.jump-your-bones.com
 0.0.0.0 kwjuamkneepad.download
 0.0.0.0 kwonlog.com
@@ -4976,6 +4979,7 @@
 0.0.0.0 setupupgrade.yourbestcornerforcontentsafegreat.date
 0.0.0.0 setupupgrade12.havingbestcenter2sitestreamingnow.review
 0.0.0.0 setupupgrade12.havingbestcenter2sitestreamingthismonth.date
+0.0.0.0 seveloculas.info
 0.0.0.0 sevengames.go2cloud.org
 0.0.0.0 sewingmachines.site
 0.0.0.0 sex-2-tube.com
@@ -5346,6 +5350,7 @@
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.trafficreps.com
+0.0.0.0 syndicpop.com
 0.0.0.0 syst-collapseup.s3.amazonaws.com
 0.0.0.0 system-3abot5.stream
 0.0.0.0 system-ace41.stream
@@ -6487,6 +6492,7 @@
 0.0.0.0 www.anastasia-web.com
 0.0.0.0 www.ancybenborld.com
 0.0.0.0 www.andatranquilo.win
+0.0.0.0 www.androiderrorhelp.tk
 0.0.0.0 www.angelbax.com
 0.0.0.0 www.animaljam.com
 0.0.0.0 www.anrdoezrs.net
