@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 &  68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41 & 159.89.226.192 & 134.209.73.120 & 178.128.71.197 & 68.183.29.62
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 &  68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41 & 159.89.226.192 & 134.209.73.120 & 178.128.71.197 & 68.183.29.62 & 157.230.6.199
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 # Funny: http://daxab.com/player/js/fuckadblock.min.js
 0.0.0.0 0.geniusdisplay.com
@@ -646,6 +646,7 @@
 0.0.0.0 appfocus.go2cloud.org
 0.0.0.0 appformob.com
 0.0.0.0 appgasstation.com
+0.0.0.0 appjskeeper.s3.us-west-2.amazonaws.com
 0.0.0.0 apple.j9eup6o5os.top
 0.0.0.0 application-77my.com
 0.0.0.0 applicationbest.com
@@ -896,6 +897,7 @@
 0.0.0.0 blazons-cockups.stream
 0.0.0.0 blessbiz.online
 0.0.0.0 bleutrade.com
+0.0.0.0 blindferret.156th.com
 0.0.0.0 blitzadultparty.ru
 0.0.0.0 blogofsex.com
 0.0.0.0 blogs.cfainstitute.org
@@ -1984,6 +1986,7 @@
 0.0.0.0 fast-route.com
 0.0.0.0 fastautoinsure.club
 0.0.0.0 fastautoloansvirginiainc.com
+0.0.0.0 fastbestflare-theclicks.icu
 0.0.0.0 fastdatinglife.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastmotion.online
@@ -2469,6 +2472,7 @@
 0.0.0.0 gsafe.getawesome7.com
 0.0.0.0 gsafe.getawesome8.com
 0.0.0.0 gsafe.getawesome9.com
+0.0.0.0 gsght.com
 0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 gsn.chameleon.ad
 0.0.0.0 gu.dyntrk.com
@@ -3181,6 +3185,7 @@
 0.0.0.0 mad2.brandreachsys.com
 0.0.0.0 mading-calipprox.com
 0.0.0.0 maebtjn.com
+0.0.0.0 magic.wizards.com
 0.0.0.0 magnificenttrade.com
 0.0.0.0 mahimeta.com
 0.0.0.0 mailinglist3.com
@@ -4655,6 +4660,7 @@
 0.0.0.0 sc.iasds01.com
 0.0.0.0 sc.tradetracker.net
 0.0.0.0 scamangels.porndoepremium.com
+0.0.0.0 scanningcomputers.info
 0.0.0.0 scanningnow.stream
 0.0.0.0 scbl54virared.com
 0.0.0.0 sce-testing.org
@@ -6759,6 +6765,7 @@
 0.0.0.0 www.edutrkid.com
 0.0.0.0 www.effectivemorepproffesionalway4comunication.win
 0.0.0.0 www.electronicproductzone.com
+0.0.0.0 www.elemperador.pw
 0.0.0.0 www.elitemate.com
 0.0.0.0 www.emarkettrack1.com
 0.0.0.0 www.emjcd.com
