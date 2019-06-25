@@ -1,7 +1,7 @@
 # # Hosts contributed by thisisu
 # Amazon abuse: 54.89.168.225
 # Browlock patterns: {IP}\pc-error-0xxxchxx88/blue.php (Jan 2019)
-# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 &  68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41 & 159.89.226.192 & 134.209.73.120 & 178.128.71.197 & 68.183.29.62 & 157.230.6.199 & 192.241.149.240
+# Browlock: 167.99.162.106 & 142.93.91.153 & 159.89.154.223 & 165.227.5.182 & 68.183.164.6 & 149.248.37.41 & 138.197.196.197 & 159.89.135.44 & 142.93.92.90 & 178.128.185.235 & 178.128.187.0 & 157.230.133.192 & 68.183.171.182 &  68.183.167.91 & 206.189.161.43 & 157.230.134.218 & 157.230.160.54 & 165.227.28.91 & 157.230.147.253 & 157.230.155.168 & 206.189.66.217 & 167.99.167.85 & 157.230.158.22 & 157.230.134.81 & 206.189.162.11 & 157.230.129.129 & 142.93.88.61 & 157.230.170.8 & 157.230.165.131 & 204.48.18.41 & 159.89.226.192 & 134.209.73.120 & 178.128.71.197 & 68.183.29.62 & 157.230.6.199 & 192.241.149.240 & 165.227.97.42
 # Cloudflare abuse: 35.188.59.75 & 35.188.147.160 & 35.184.188.211 & 39.193.89.147 & 130.211.222.44
 # Funny: http://daxab.com/player/js/fuckadblock.min.js
 0.0.0.0 0.geniusdisplay.com
@@ -785,6 +785,7 @@
 0.0.0.0 b.adexchangemachine.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b.tinb.net
+0.0.0.0 b.zuzuru.online
 0.0.0.0 b0szz.gce8xz.ygwt.online
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 b2335c67c2b28490257e34f369099f4e.awentw.com
@@ -1193,6 +1194,7 @@
 0.0.0.0 celebrityhero.com
 0.0.0.0 celeritascdn.com
 0.0.0.0 cening-setects.com
+0.0.0.0 centerlists.com
 0.0.0.0 centro.pixel.ad
 0.0.0.0 certifiedbyusapps.com
 0.0.0.0 certifiedresponsenetwork.net
@@ -1307,6 +1309,7 @@
 0.0.0.0 click.fiveppc.com
 0.0.0.0 click.freebonk.club
 0.0.0.0 click.fstrk.net
+0.0.0.0 click.gorillacoupon.com
 0.0.0.0 click.ibizads.com
 0.0.0.0 click.infocenter.support
 0.0.0.0 click.inplayable.com
@@ -1500,6 +1503,7 @@
 0.0.0.0 cpapointer.com
 0.0.0.0 cparedirector.com
 0.0.0.0 cpaserver.herokuapp.com
+0.0.0.0 cpatrackinglinks.com
 0.0.0.0 cpbits.org
 0.0.0.0 cpi-offers.com
 0.0.0.0 cplkil.com
@@ -1847,6 +1851,7 @@
 0.0.0.0 dsp.gewinnsteigern.com
 0.0.0.0 dsp.v.fwmrm.net
 0.0.0.0 dsp.wtf # =AR= http://dsp.wtf/afu.php?zoneid=1554091&var=1554004
+0.0.0.0 dsp5stero.com
 0.0.0.0 dspfeed.sodamedia.net
 0.0.0.0 dspland.com
 0.0.0.0 dt-secure.videohub.tv
@@ -1886,6 +1891,7 @@
 0.0.0.0 e7is2u38.top
 0.0.0.0 e8a31c08d0faff38f8bfa57c75d80828.awentw.com
 0.0.0.0 e9geolgzk6.com
+0.0.0.0 earbash.club
 0.0.0.0 earnestart.info
 0.0.0.0 earprunerstemvisor.tk
 0.0.0.0 easdalebackflow.com
@@ -1914,6 +1920,7 @@
 0.0.0.0 econobox.literature.gq
 0.0.0.0 ecoshiny.com
 0.0.0.0 ecwhpkjtoneless.xyz
+0.0.0.0 edchargina.pro
 0.0.0.0 edge.quantserve.com
 0.0.0.0 edirect22.lpages.co
 0.0.0.0 edonetype.com
@@ -1945,6 +1952,7 @@
 0.0.0.0 emplying.com
 0.0.0.0 en.start.gamigo.com
 0.0.0.0 enable-private-browsing.com
+0.0.0.0 enablegift.com
 0.0.0.0 endpoint1.a4g.com
 0.0.0.0 endpoint1.dspbox.io
 0.0.0.0 endpoint10.dspbox.io
@@ -2236,6 +2244,7 @@
 0.0.0.0 forex46.com
 0.0.0.0 forexintradsexchage.club
 0.0.0.0 forgeofempires.com
+0.0.0.0 forgethenar.info
 0.0.0.0 forkliftsquotes.com
 0.0.0.0 forms.aweber.com
 0.0.0.0 formulawire.com
@@ -2945,6 +2954,7 @@
 0.0.0.0 intimepoint.com
 0.0.0.0 intion-admilfs.com
 0.0.0.0 introspectional.stream
+0.0.0.0 invol.co
 0.0.0.0 iocnkrbgic.com
 0.0.0.0 ioms.bfmio.com
 0.0.0.0 ioredi.com
@@ -3207,6 +3217,7 @@
 0.0.0.0 liveforevr.info
 0.0.0.0 livehotty.com
 0.0.0.0 livelocalsdating.us
+0.0.0.0 livelystuff.com
 0.0.0.0 liverealdeals.com
 0.0.0.0 livermony.info
 0.0.0.0 liveupdate.thebestperformancespotformachinenow.download
@@ -3379,6 +3390,7 @@
 0.0.0.0 matchtrulyadready.people-wet.com
 0.0.0.0 mattempte.info
 0.0.0.0 matterscout.com
+0.0.0.0 maturepersondating.com
 0.0.0.0 matureswantlover.com
 0.0.0.0 max.taggy.tech
 0.0.0.0 maxcpv.com
@@ -3462,6 +3474,7 @@
 0.0.0.0 metrics.cnn.com
 0.0.0.0 metroveincenters.com
 0.0.0.0 mewstwo.stream
+0.0.0.0 mezone1990.com
 0.0.0.0 mgclicks.net
 0.0.0.0 mh.promo.brokenteens.org
 0.0.0.0 mhthea.peakonsrv.com
@@ -3670,6 +3683,7 @@
 0.0.0.0 mysexcam.xyz
 0.0.0.0 mysexgames.com
 0.0.0.0 mysimon.com
+0.0.0.0 mysnoring-solution.com
 0.0.0.0 mysoftwasubjectapplicationdev.site
 0.0.0.0 mysoftwasubjectapplicationdevelopment.site
 0.0.0.0 mysporttab.com
@@ -3753,6 +3767,7 @@
 0.0.0.0 newmessage.aprtrack.com
 0.0.0.0 news-subscribe.com
 0.0.0.0 news4.men
+0.0.0.0 news98.biz
 0.0.0.0 newscurrent.com
 0.0.0.0 newsfacce.com
 0.0.0.0 newsgalore.net
@@ -3849,6 +3864,7 @@
 0.0.0.0 nowcheck.fabandamazingcontent4youthismonth.trade
 0.0.0.0 nowincoming.com
 0.0.0.0 nowlifestyle.com
+0.0.0.0 nowlivestyle.com
 0.0.0.0 nowsetup.the-readysystemsforcontentready.bid
 0.0.0.0 nowup.freeandsafecenter4contenting.site
 0.0.0.0 nowup.yourgoodplace4contenting.win
@@ -4412,6 +4428,7 @@
 0.0.0.0 pushqwer.com
 0.0.0.0 pushrase.com
 0.0.0.0 pushservice.one
+0.0.0.0 pushsroutg.com
 0.0.0.0 pushstat.com
 0.0.0.0 pushtraffic.xyz
 0.0.0.0 pushtrust.com
@@ -4739,6 +4756,7 @@
 0.0.0.0 rockinpornchicks.com
 0.0.0.0 rolations.info
 0.0.0.0 rolledsteelcuts.com
+0.0.0.0 rollingall.com
 0.0.0.0 roman.sjv.io
 0.0.0.0 romancetale.com
 0.0.0.0 ronrecheclo.pro
@@ -4932,10 +4950,12 @@
 0.0.0.0 searchprivacy.one
 0.0.0.0 searchprivacyplus.com
 0.0.0.0 searchroute-1560352588.us-west-2.elb.amazonaws.com
+0.0.0.0 searchtik.com
 0.0.0.0 searchtotokilo.com
 0.0.0.0 searchtuner.com
 0.0.0.0 searchy.co
 0.0.0.0 seates-clable.com
+0.0.0.0 seceno.com
 0.0.0.0 secretlanguage.co
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 secure.authbill.com
@@ -5184,6 +5204,7 @@
 0.0.0.0 server4.werisebyliftingothers.info
 0.0.0.0 server4.whowoeitbetter.info
 0.0.0.0 server4.why-you-detect-me.com
+0.0.0.0 server4.wordmark.info
 0.0.0.0 server4.you-got-this.info
 0.0.0.0 server4.youarenough.info
 0.0.0.0 server4.youcantrustnoone.info
@@ -5201,6 +5222,7 @@
 0.0.0.0 servicesforoffers.life
 0.0.0.0 servingmillions.com
 0.0.0.0 serw.clicksor.com
+0.0.0.0 sesono.com
 0.0.0.0 set2updatenow.gettingallyourcompneedeasy.date
 0.0.0.0 set4update4u.yoursecondbestplace-content.bid
 0.0.0.0 settingupdate.bestadyoucanhavetodatenowalways.bid
@@ -5939,6 +5961,7 @@
 0.0.0.0 track.monolithalp.com
 0.0.0.0 track.mpxchange.com
 0.0.0.0 track.mvhop.com
+0.0.0.0 track.mysnoring-solution.com
 0.0.0.0 track.myvoluum.website
 0.0.0.0 track.o7go.com
 0.0.0.0 track.offertalks.com
@@ -6006,6 +6029,7 @@
 0.0.0.0 tracking.bodis.com
 0.0.0.0 tracking.callmeasurement.com
 0.0.0.0 tracking.cswsaa.com
+0.0.0.0 tracking.dating-clicks.com
 0.0.0.0 tracking.feedmob.com
 0.0.0.0 tracking.fuze360.com
 0.0.0.0 tracking.hzvd94sa.com
@@ -6064,6 +6088,7 @@
 0.0.0.0 traffic.adxprtz.com
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.fstsrv.com
+0.0.0.0 traffic.igetup.ru
 0.0.0.0 traffic.prod.cobaltgroup.com
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 traffic.trmnt.com
@@ -6170,6 +6195,7 @@
 0.0.0.0 trktrk060.com
 0.0.0.0 trktrk067.com
 0.0.0.0 trkur1.com
+0.0.0.0 trkur3.com
 0.0.0.0 trkur4.com
 0.0.0.0 trkur5.com
 0.0.0.0 trmnsite.com
@@ -6246,6 +6272,7 @@
 0.0.0.0 uncratenine.pw
 0.0.0.0 undefiledsix.pw
 0.0.0.0 undermine.ml
+0.0.0.0 undmathenhem.info
 0.0.0.0 undoupgrade24.fabandamazingcontent4younow.date
 0.0.0.0 undoupgrade24.fabandamazingcontent4youthismonth.trade
 0.0.0.0 unid.go.com
@@ -6413,6 +6440,7 @@
 0.0.0.0 val.looksmart.com
 0.0.0.0 val.runtnc.net
 0.0.0.0 valuedmarket.com
+0.0.0.0 vanani.com
 0.0.0.0 vanityoverdose.com
 0.0.0.0 vasya-trk.info
 0.0.0.0 vauoy.voluumtrk.com
@@ -6483,6 +6511,7 @@
 0.0.0.0 viralvideos.tips
 0.0.0.0 viricidefive.pw
 0.0.0.0 viriepak.com
+0.0.0.0 viruscheking.tech
 0.0.0.0 viruspcsecure.bz
 0.0.0.0 visiney.com
 0.0.0.0 visit.net-at35.stream
@@ -6777,6 +6806,7 @@
 0.0.0.0 www.adworkmedia.com
 0.0.0.0 www.adzbux.com
 0.0.0.0 www.affairalert.com
+0.0.0.0 www.afftrackinglinks.com
 0.0.0.0 www.afgr2.com
 0.0.0.0 www.afternoon.world
 0.0.0.0 www.airbnb.com
@@ -6866,6 +6896,7 @@
 0.0.0.0 www.bitstarz.com
 0.0.0.0 www.biz2credit.com
 0.0.0.0 www.bluechew.com
+0.0.0.0 www.bluechewexposed.com
 0.0.0.0 www.bluecruisebooking.com
 0.0.0.0 www.bnserving.com
 0.0.0.0 www.bobefnehenu.com
@@ -7286,6 +7317,7 @@
 0.0.0.0 www.hicpm5.com
 0.0.0.0 www.hiddeenass.com
 0.0.0.0 www.hideyoursearch.com
+0.0.0.0 www.hideyoursearch.win
 0.0.0.0 www.hipolofasef.com
 0.0.0.0 www.histiria.com
 0.0.0.0 www.hitcpm.com
@@ -7774,6 +7806,7 @@
 0.0.0.0 www.savenowreadyflash.icu
 0.0.0.0 www.savingmoneys.com
 0.0.0.0 www.savingshot.website
+0.0.0.0 www.sccpre.cat
 0.0.0.0 www.schoolgirlgangbangs.com
 0.0.0.0 www.scwst.top
 0.0.0.0 www.search-privacy.link
@@ -7840,6 +7873,7 @@
 0.0.0.0 www.slutassets.com
 0.0.0.0 www.slutroulette.com
 0.0.0.0 www.smartclean.today
+0.0.0.0 www.smartpackagetracker.com
 0.0.0.0 www.smellyfootfetish.com
 0.0.0.0 www.snapcunt.com
 0.0.0.0 www.snapmingles.com
@@ -7966,6 +8000,7 @@
 0.0.0.0 www.thesetools.com
 0.0.0.0 www.thesitefreeofpatchescontentingalways.bid
 0.0.0.0 www.thesitefreeofpatchescontentingalways.date
+0.0.0.0 www.thesportsdb.com
 0.0.0.0 www.thesummertimegreatsources.trade
 0.0.0.0 www.thewidevarietyforcontentingall.review
 0.0.0.0 www.thewidevarietyforcontentingnew.review
@@ -8446,6 +8481,7 @@
 0.0.0.0 younqone.com
 0.0.0.0 youoffer24.com
 0.0.0.0 youphone.club
+0.0.0.0 yourchoicebuy.com
 0.0.0.0 yourdailytrailer.dl.mysearch.com
 0.0.0.0 yourdailytrailer.yournewtab.com
 0.0.0.0 yourfreepdfconverternow.com
@@ -8455,6 +8491,7 @@
 0.0.0.0 youropiniontrk.com
 0.0.0.0 yourpdfsconverternow.com
 0.0.0.0 yourradio.site
+0.0.0.0 yours2u.com
 0.0.0.0 yourspeedtestnow.com
 0.0.0.0 yourvidconverter.com
 0.0.0.0 youtube.trafficpopupnetwork.xyz
@@ -8510,6 +8547,7 @@
 0.0.0.0 zonegem.com
 0.0.0.0 zonog.mobilesatisfy.com
 0.0.0.0 zoologist.icu
+0.0.0.0 zoomclk.com
 0.0.0.0 zoophone.club
 0.0.0.0 zpolivtjrhjquo.com
 0.0.0.0 zrybzbapantomimes.download
@@ -8517,6 +8555,7 @@
 0.0.0.0 ztracker.ml
 0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zvovdtomwa.com
+0.0.0.0 zwenews.biz
 0.0.0.0 zwoops.com
 0.0.0.0 zxaoudwcljrtig.com
 0.0.0.0 zxczritytzsjz.com
