@@ -2,3 +2,4 @@ SED -r "/^\s*[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\s+|^\s*#|.\s/!s/./0.
 SORT_ -f -u <"E:\Github\hosts\temp1" >"E:\Github\hosts\temp2"
 MOVE /Y "E:\Github\hosts\temp2" "E:\Github\hosts\hosts"
 DEL /F/Q "E:\Github\hosts\temp*"
+Call "E:\Github\hosts\sort_ips.bat"
