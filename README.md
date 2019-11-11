@@ -13,3 +13,4 @@
 - Rogue Browser Extensions
 - Rogue Google Play Store Apps
 ### Updated daily!
+### Send me sites you would like to see cleaned by this hosts file
